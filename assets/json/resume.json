@@ -14,14 +14,14 @@
       "name": "MIT Center for Constructive Communication",
       "position": "Research Assistant",
       "url": "https://ccc.mit.edu",
-      "startDate": "2023-09-01",
+      "startDate": "09/2023",
       "endDate": "present"
     },
     {
       "name": "Unity Technologies",
       "position": "Data Science Intern",
-      "startDate": "2022-05-01",
-      "endDate": "2022-08-31",
+      "startDate": "05/2022",
+      "endDate": "08/2022",
       "highlights": [
         "Optimized deep learning algorithms to throttle bid requests in Unity's Ad Exchange using Tensorflow.",
         "Decreased model training time by 25% and reduced model size and number of parameters by 50%.",
@@ -32,13 +32,15 @@
   "education": [
     {
       "institution": "Massachusetts Institute of Technology",
-      "location": "Cambridge, Massachusetts",
+      "location": "Cambridge, MA",
       "url": "https://ccc.mit.edu",
       "area": "Center for Constructive Communication",
       "studyType": "Master of Science",
-      "startDate": "09-2023",
+      "startDate": "09/2023",
       "endDate": "present",
-      "summary": "Master's candidate in the Center for Constructive Communication with Professor Deb Roy."
+      "highlights": [
+        "Supervised by Professor Deb Roy."
+      ]
     },
     {
       "institution": "McGill University",
@@ -46,33 +48,33 @@
       "url": "https://www.mcgill.ca/",
       "area": "Honours Math and Computer Science",
       "studyType": "Bachelor of Arts",
-      "startDate": "09-2018",
-      "endDate": "05-2022"
+      "startDate": "09/2019",
+      "endDate": "05/2023"
     }
   ],
   "publications": [
     {
       "name": "LLM Targeted Underperformance Disproportionately Impacts Vulnerable Users",
       "publisher": "Safe Generative AI Workshop @ NeurIPS 2024",
-      "releaseDate": "10/14/2024",
+      "releaseDate": "10/2024",
       "url": "https://arxiv.org/abs/2406.17737"
     },
     {
       "name": "On the Relationship between Truth and Political Bias in Language Models",
       "publisher": "Empirical Methods in Natural Language Processing (EMNLP)",
-      "releaseDate": "09/20/2024",
+      "releaseDate": "09/2024",
       "url": "https://arxiv.org/pdf/2409.05283"
     },
     {
       "name": "Are Diffusion Models Vision-And-Language Reasoners?",
       "publisher": "Advances in Neural Information Processing Systems (NeurIPS)",
-      "releaseDate": "05/25/2023",
+      "releaseDate": "05/2023",
       "url": "https://proceedings.neurips.cc/paper_files/paper/2023/file/1a675d804f50509b8e21d0d3ca709d03-Paper-Conference.pdf"
     },
     {
       "name": "An Empirical Survey of the Effectiveness of Debiasing Techniques for Pre-trained Language Models",
       "publisher": "Association for Computational Linguistics",
-      "releaseDate": "5/1/2022",
+      "releaseDate": "05/2022",
       "url": "https://aclanthology.org/2022.acl-long.132"
     }
   ],
