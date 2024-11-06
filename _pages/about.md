@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I'm currently doing my master's at the MIT[Center for Constructive Communication](https://www.ccc.mit.edu/) at the [Media Lab](https://www.media.mit.edu) supervised by [Deb Roy](https://www.media.mit.edu/people/dkroy/overview/). I did my undergrad at McGill University in Montreal, Canada and did research with [Siva Reddy](https://sivareddy.in/) at [Mila Quebec](https://mila.quebec/en).
+I'm currently doing my master's at the MIT [Center for Constructive Communication](https://www.ccc.mit.edu/) at the [Media Lab](https://www.media.mit.edu) supervised by [Deb Roy](https://www.media.mit.edu/people/dkroy/overview/). I did my undergrad at McGill University in Montreal, Canada and did research with [Siva Reddy](https://sivareddy.in/) at [Mila Quebec](https://mila.quebec/en).
 
 I'm passionate about equitable, pluralistic, safe AI for the benefit of all. My research interests include evaluation of LLMs for fairness and safety, pluralistic alignment, and developing equitable human-centered collaborative AI systems.
 
