@@ -2,24 +2,27 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  # more_info: >
+  #   <p>555 your office number</p>
+  #   <p>123 your address street</p>
+  #   <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm currently doing my master's at the MIT[Center for Constructive Communication](https://www.ccc.mit.edu/) at the [Media Lab](https://www.media.mit.edu) supervised by [Deb Roy](https://www.media.mit.edu/people/dkroy/overview/).<br>
+I did my undergrad at McGill University in Montreal, Canada and did research with [Siva Reddy](https://sivareddy.in/) at [Mila Quebec](https://mila.quebec/en).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm passionate about equitable, pluralistic, safe AI for the benefit of all. My research interests include evaluation of LLMs for fairness and safety, pluralistic alignment, and developing equitable human-centered collaborative AI systems.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Currently, my Master's thesis focuses on leveraging large language models to facilitate deliberative dialogue and consensus-building in Citizens' Assemblies through identifying bridging statements, fairly representing the collective stance, and amplifying underheard voices.
+
+My background is in mathematics, computer science, and natural language processing (NLP) with a focus on addressing harmful biases in language models. I also have experience in vision-and-language models such as Stable Diffusion. Beyond my academic pursuits, I am enthusiastic about linguistics, playing ultimate frisbee and nurturing a growing collection of house plants.
