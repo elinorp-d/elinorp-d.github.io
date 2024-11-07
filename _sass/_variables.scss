@@ -15,7 +15,7 @@ $cyan-color: #2698ba !default;
 $light-cyan-color: color.adjust($cyan-color, $lightness: 25%);
 $green-color: #00ab37 !default;
 $green-color-lime: #b7d12a !default;
-$green-color-dark: #009f06 !default;
+$green-color-dark: #06900c !default;
 $green-color-light: #ddffdd !default;
 $green-color-bright: #11d68b !default;
 $purple-color: #b509ac !default;
@@ -34,7 +34,7 @@ $black-color: #000000 !default;
 
 // Theme colors
 
-$code-bg-color-light: rgba($purple-color, 0.05);
+$code-bg-color-light: rgba($green-color-dark, 0.05);
 $code-bg-color-dark: #2c3237 !default;
 
 // Font awesome location
