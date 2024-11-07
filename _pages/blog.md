@@ -1,9 +1,9 @@
 ---
 layout: default
 permalink: /blog/
-title: blog
+title: plant blog
 nav: false
-nav_order: 1
+nav_order: 
 pagination:
   enabled: true
   collection: posts
