@@ -65,8 +65,8 @@ I moved to Montreal for university<d-footnote>McGill!</d-footnote> and needed to
 It was also during this time that I began documenting my plants, starting with the bird of paradise. I was fascinated with the growth pattern of the huge leaves.
 
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/plants/bop/1.png" class="img-fluid rounded z-depth-1" max-height=400 %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/plants/bop/2.png" class="img-fluid rounded z-depth-1" max-height=400  %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/plants/bop/1.png" class="img-fluid rounded z-depth-1" height="400px" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/plants/bop/2.png" class="img-fluid rounded z-depth-1" max-height="400px"  %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/plants/bop/3.png" class="img-fluid rounded z-depth-1" max-height=400  %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/plants/bop/4.png" class="img-fluid rounded z-depth-1" max-height=400  %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/plants/bop/5.png" class="img-fluid rounded z-depth-1" max-height=400  %}</swiper-slide>
