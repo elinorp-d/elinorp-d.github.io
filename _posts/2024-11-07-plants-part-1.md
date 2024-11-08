@@ -7,8 +7,6 @@ tags: plants
 categories: plants
 thumbnail: assets/img/plants/window_collection_6_2024.png
 featured: true
-images:
-    slider: true
 
 toc:
   - name: Origin story?
@@ -19,19 +17,18 @@ toc:
   - name: In the beginning
   - name: The pandemic
 
-_styles: >
-    swiper-container {
-        max-width: 400px;
+styles: >
+    fourhundred {
+        max-height:400;
+        width: auto;
     }
 ---
 
 I currently have over 50 plants in my current collection, though previously I've had over 100<d-footnote>I'll never admit that this is too many plants... Although it was nearly impossible to keep such a large collection pest-free while a full-time student.</d-footnote>
 
-The number of the footnote will be automatically generated.<d-footnote>This will become a hoverable footnote.</d-footnote>
-
 I've come a long way with learning how to take care of all sorts of different plants. Along the way, I've developed a taste for different flavours of plant-parenting styles and preferences for different species. I'd describe my current state as _Hoya enthusiast with a tendency to water based solely on ~vibes~_.
 
-<div class="row mt-3">
+<div class="row mt-3 ">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/plants/window_collection_6_2024.png" class="img-fluid rounded z-depth-1"  %}
     </div>
@@ -66,12 +63,12 @@ I also got a snake plant right before I left for university.
 I moved to Montreal for university<d-footnote>McGill!</d-footnote> and needed to feel a semblance of homeyness in my new dorm, so I immediately capitalized on my new independence to purchase several plants, including a golden pothos, a curly spider plant, a small bird of paradise, and a _pineapple plant_!<d-footnote>Purchased from [Leaves Cafe](https://maps.app.goo.gl/EiwxsHBTZrxBJo8T7)</d-footnote> This was very exciting and brought me lots of joy and attention for growing a tiny little pineapple from my dorm room.
 
 
-<div class="row mt-3" style="max-height: 400px">
+<div class="row mt-3" >
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/plants/pineapple_dorm_2019.png" class="img-fluid rounded z-depth-1"  %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/pineapple_dorm_2019.png" class="img-fluid rounded z-depth-1 fourhundred"  %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/plants/pineapple_2019.png" class="img-fluid rounded z-depth-1"  %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/pineapple_2019.png" class="img-fluid rounded z-depth-1 fourhundred"  %}
     </div>
 </div>
 <div class="caption">
@@ -80,17 +77,17 @@ I moved to Montreal for university<d-footnote>McGill!</d-footnote> and needed to
 
 It was also during this time that I began documenting my plants, starting with the bird of paradise. I was fascinated with the growth pattern of the huge leaves.
 
-<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/plants/bop/1.png" class="img-fluid rounded z-depth-1"%}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/plants/bop/2.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/plants/bop/3.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/plants/bop/4.png" class="img-fluid rounded z-depth-1"  %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/plants/bop/5.png" class="img-fluid rounded z-depth-1"  %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/plants/bop/6.png" class="img-fluid rounded z-depth-1"  %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/plants/bop/7.png" class="img-fluid rounded z-depth-1"  %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/plants/bop/8.png" class="img-fluid rounded z-depth-1"  %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/plants/bop/9.png" class="img-fluid rounded z-depth-1"  %}</swiper-slide>
-</swiper-container>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/plants/bop/1.png" class="img-fluid rounded z-depth-1 fourhundred"  %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/plants/bop/5.png" class="img-fluid rounded z-depth-1 fourhundred"  %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/plants/bop/9.png" class="img-fluid rounded z-depth-1 fourhundred"  %}
+    </div>
+</div>
 <div class="caption">
     I took a photo every day for a month to capture the leaf unfurling.
 </div>
@@ -105,36 +102,36 @@ Putting my newly learned skills to the test, I took cuttings of my dad's arrow p
 
 Star Wars pothos and the philodendron micans are two of the plants that most symbolize my plant journey and I will certainly have entire posts dedicated them. 
 
-<div class="row mt-3" style="max-height: 400px">
+<div class="row mt-3" >
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/plants/arrow_2020_1.png" class="img-fluid rounded z-depth-1"  %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/arrow_2020_1.png" class="img-fluid rounded z-depth-1 fourhundred"  %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/plants/arrow_2020_2.png" class="img-fluid rounded z-depth-1"  %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/arrow_2020_2.png" class="img-fluid rounded z-depth-1 fourhundred"  %}
     </div>
 </div>
 <div class="caption">
     Left: arrow plant cutting May 2020. Right: same plant in August 2020.
 </div>
 
-<div class="row mt-3" style="max-height: 400px">
+<div class="row mt-3" >
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/plants/starwars/may_2020.png" class="img-fluid rounded z-depth-1"  %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/starwars/may_2020.png" class="img-fluid rounded z-depth-1 fourhundred"  %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/plants/starwars/july_2020.png" class="img-fluid rounded z-depth-1"  %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/starwars/july_2020.png" class="img-fluid rounded z-depth-1 fourhundred"  %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/plants/starwars/july_2020_2.png" class="img-fluid rounded z-depth-1"  %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/starwars/july_2020_2.png" class="img-fluid rounded z-depth-1 fourhundred"  %}
     </div>
 </div>
 <div class="caption">
     Soil propagation of **Star Wars Pothos**. Leftmost is May 4, 2020 and the right two are in July 2020.
 </div>
 
-<div class="row mt-3" style="max-height: 400px">
+<div class="row mt-3" >
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/plants/philo_props_2020.png" class="img-fluid rounded z-depth-1"  %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/philo_props_2020.png" class="img-fluid rounded z-depth-1 fourhundred"  %}
     </div>
 </div>
 <div class="caption">
