@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: distill
 title: I have a lot of plants (Part 1)
 date: 2024-11-07
 description: A brief history of Elinor and her plants 
@@ -27,7 +27,7 @@ _styles: >
 
 I currently have over 50 plants in my current collection, though previously I've had over 100<d-footnote>I'll never admit that this is too many plants... Although it was nearly impossible to keep such a large collection pest-free while a full-time student.</d-footnote>
 
-testing<d-footnote>This will become a hoverable footnote.</d-footnote>
+The number of the footnote will be automatically generated.<d-footnote>This will become a hoverable footnote.</d-footnote>
 
 I've come a long way with learning how to take care of all sorts of different plants. Along the way, I've developed a taste for different flavours of plant-parenting styles and preferences for different species. I'd describe my current state as _Hoya enthusiast with a tendency to water based solely on ~vibes~_.
 
