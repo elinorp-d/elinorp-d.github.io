@@ -9,6 +9,20 @@ thumbnail: assets/img/plants/window_collection_6_2024.png
 featured: true
 images:
     slider: true
+
+toc:
+  - name: Origin story?
+    # if a section has subsections, you can add them as follows:
+    # subsections:
+    #   - name: Example Child Subsection 1
+    #   - name: Example Child Subsection 2
+  - name: In the beginning
+  - name: The pandemic
+
+_styles: >
+    swiper-container {
+        max-width: 400px;
+    }
 ---
 
 I currently have over 50 plants in my current collection, though previously I've had over 100<d-footnote>I'll never admit that this is too many plants... Although it was nearly impossible to keep such a large collection pest-free while a full-time student.</d-footnote>
@@ -19,7 +33,7 @@ I've come a long way with learning how to take care of all sorts of different pl
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/plants/window_collection_6_2024.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/window_collection_6_2024.png" class="img-fluid rounded z-depth-1"  %}
     </div>
 </div>
 <div class="caption">
@@ -38,7 +52,7 @@ My collection<d-footnote>Obsession?</d-footnote> began with my first plant: a ze
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/plants/watson_moses_2019.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/watson_moses_2019.png" class="img-fluid rounded z-depth-1"  %}
     </div>
 </div>
 <div class="caption">
@@ -54,10 +68,10 @@ I moved to Montreal for university<d-footnote>McGill!</d-footnote> and needed to
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/plants/pineapple_dorm_2019.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/pineapple_dorm_2019.png" class="img-fluid rounded z-depth-1"  %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/plants/pineapple_2019.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/pineapple_2019.png" class="img-fluid rounded z-depth-1"  %}
     </div>
 </div>
 <div class="caption">
@@ -67,15 +81,15 @@ I moved to Montreal for university<d-footnote>McGill!</d-footnote> and needed to
 It was also during this time that I began documenting my plants, starting with the bird of paradise. I was fascinated with the growth pattern of the huge leaves.
 
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/plants/bop/1.png" class="img-fluid rounded z-depth-1" height="400px" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/plants/bop/2.png" class="img-fluid rounded z-depth-1" max-height="400px"  %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/plants/bop/3.png" class="img-fluid rounded z-depth-1" max-height=400  %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/plants/bop/4.png" class="img-fluid rounded z-depth-1" max-height=400  %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/plants/bop/5.png" class="img-fluid rounded z-depth-1" max-height=400  %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/plants/bop/6.png" class="img-fluid rounded z-depth-1" max-height=400  %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/plants/bop/7.png" class="img-fluid rounded z-depth-1" max-height=400  %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/plants/bop/8.png" class="img-fluid rounded z-depth-1" max-height=400  %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/plants/bop/9.png" class="img-fluid rounded z-depth-1" max-height=400  %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/plants/bop/1.png" class="img-fluid rounded z-depth-1"%}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/plants/bop/2.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/plants/bop/3.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/plants/bop/4.png" class="img-fluid rounded z-depth-1"  %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/plants/bop/5.png" class="img-fluid rounded z-depth-1"  %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/plants/bop/6.png" class="img-fluid rounded z-depth-1"  %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/plants/bop/7.png" class="img-fluid rounded z-depth-1"  %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/plants/bop/8.png" class="img-fluid rounded z-depth-1"  %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/plants/bop/9.png" class="img-fluid rounded z-depth-1"  %}</swiper-slide>
 </swiper-container>
 <div class="caption">
     I took a photo every day for a month to capture the leaf unfurling.
@@ -93,10 +107,10 @@ Star Wars pothos and the philodendron micans are two of the plants that most sym
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/plants/arrow_2020_1.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/arrow_2020_1.png" class="img-fluid rounded z-depth-1"  %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/plants/arrow_2020_2.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/arrow_2020_2.png" class="img-fluid rounded z-depth-1"  %}
     </div>
 </div>
 <div class="caption">
@@ -105,13 +119,13 @@ Star Wars pothos and the philodendron micans are two of the plants that most sym
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/plants/starwars/may_2020.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/starwars/may_2020.png" class="img-fluid rounded z-depth-1"  %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/plants/starwars/july_2020.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/starwars/july_2020.png" class="img-fluid rounded z-depth-1"  %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/plants/starwars/july_2020_2.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/starwars/july_2020_2.png" class="img-fluid rounded z-depth-1"  %}
     </div>
 </div>
 <div class="caption">
@@ -120,7 +134,7 @@ Star Wars pothos and the philodendron micans are two of the plants that most sym
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/plants/philo_props_2020.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/philo_props_2020.png" class="img-fluid rounded z-depth-1"  %}
     </div>
 </div>
 <div class="caption">
