@@ -66,7 +66,7 @@ I also got a snake plant right before I left for university.
 I moved to Montreal for university<d-footnote>McGill!</d-footnote> and needed to feel a semblance of homeyness in my new dorm, so I immediately capitalized on my new independence to purchase several plants, including a golden pothos, a curly spider plant, a small bird of paradise, and a _pineapple plant_!<d-footnote>Purchased from [Leaves Cafe](https://maps.app.goo.gl/EiwxsHBTZrxBJo8T7)</d-footnote> This was very exciting and brought me lots of joy and attention for growing a tiny little pineapple from my dorm room.
 
 
-<div class="row mt-3">
+<div class="row mt-3" style="max-height: 400px">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/plants/pineapple_dorm_2019.png" class="img-fluid rounded z-depth-1"  %}
     </div>
@@ -105,7 +105,7 @@ Putting my newly learned skills to the test, I took cuttings of my dad's arrow p
 
 Star Wars pothos and the philodendron micans are two of the plants that most symbolize my plant journey and I will certainly have entire posts dedicated them. 
 
-<div class="row mt-3">
+<div class="row mt-3" style="max-height: 400px">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/plants/arrow_2020_1.png" class="img-fluid rounded z-depth-1"  %}
     </div>
@@ -117,7 +117,7 @@ Star Wars pothos and the philodendron micans are two of the plants that most sym
     Left: arrow plant cutting May 2020. Right: same plant in August 2020.
 </div>
 
-<div class="row mt-3">
+<div class="row mt-3" style="max-height: 400px">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/plants/starwars/may_2020.png" class="img-fluid rounded z-depth-1"  %}
     </div>
@@ -132,7 +132,7 @@ Star Wars pothos and the philodendron micans are two of the plants that most sym
     Soil propagation of **Star Wars Pothos**. Leftmost is May 4, 2020 and the right two are in July 2020.
 </div>
 
-<div class="row mt-3">
+<div class="row mt-3" style="max-height: 400px">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/plants/philo_props_2020.png" class="img-fluid rounded z-depth-1"  %}
     </div>
