@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Interplay Between Implicit Bias and Sycophancy in LLMs: Implications for Fairness in Educational Decisions
+title: >
+    Interplay Between Implicit Bias and Sycophancy in LLMs: Implications for Fairness in Educational Decisions
 description: Research project for MIT seminar course 6.S986 "LLMs and Beyond" with Yoon Kim.
 img: assets/img/covert_syco_poster.jpg
 importance: 1
