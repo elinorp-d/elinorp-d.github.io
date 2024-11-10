@@ -5,12 +5,17 @@ description: Research project for MIT seminar course 6.S986 "LLMs and Beyond" wi
 img: assets/img/covert_syco_poster.jpg
 importance: 1
 category: work
-# related_publications: true
+
+styles: >
+    fourhundred {
+        max-height:400;
+        width: auto;
+    }
 ---
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/covert_syco_poster.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/covert_syco_poster.jpg" class="img-fluid rounded z-depth-1 fourhundred" %}
     </div>
 </div>
 <div class="caption">
