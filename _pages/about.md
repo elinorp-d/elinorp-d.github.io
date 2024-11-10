@@ -24,4 +24,4 @@ I'm passionate about equitable, pluralistic, safe AI for the benefit of all. My 
 
 Currently, my master's thesis focuses on leveraging large language models to facilitate deliberative dialogue and consensus-building in Citizens' Assemblies through identifying bridging statements, fairly representing the collective stance, and amplifying underheard voices.
 
-My background is in mathematics, computer science, and natural language processing (NLP) with a focus on addressing harmful biases in language models. I also have experience in vision-and-language models such as Stable Diffusion. Beyond my academic pursuits, I am enthusiastic about linguistics, playing ultimate frisbee, and nurturing a growing collection of house plants.
+My background is in mathematics, computer science, and natural language processing (NLP) with a focus on addressing harmful biases in language models. I also have experience in vision-and-language models such as Stable Diffusion. Beyond my academic pursuits, I am enthusiastic about linguistics, playing ultimate frisbee, and [nurturing a growing collection of house plants](https://elinorp-d.github.io/blog/).
