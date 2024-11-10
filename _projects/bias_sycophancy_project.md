@@ -6,8 +6,8 @@ img: assets/img/bias_syco_poster.png
 importance: 1
 
 styles: >
-    fourhundred {
-        max-height:400;
+    fivehundred {
+        max-height:500;
         width: auto;
     }
 ---
@@ -16,7 +16,7 @@ Research final project for MIT seminar course 6.S986 "Large Language Models and 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/bias_syco_poster.png" class="img-fluid rounded z-depth-1 fourhundred" %}
+        {% include figure.liquid path="assets/img/bias_syco_poster.png" class="img-fluid rounded z-depth-1 fivehundred" %}
     </div>
 </div>
 <div class="caption">
