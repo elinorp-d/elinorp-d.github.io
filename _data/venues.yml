@@ -1,9 +1,15 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"EMNLP 2024":
+  color: "#06900c"
+  url: https://2024.emnlp.org/
 
-"PhysRev":
-  url: https://journals.aps.org/
+"NeuIPS 2024":
+  color: "#06900c"
+  url: https://neurips.cc/
 
-"Vision":
-  color: "#009f36"
+"NeurIPS 2023":
+  color: "#06900c"
+  url: https://neurips.cc/
+
+"ACL 2022":
+  color: "#06900c"
+  url: https://2022.aclweb.org/
