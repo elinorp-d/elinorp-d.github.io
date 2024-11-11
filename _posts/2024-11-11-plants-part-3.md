@@ -74,20 +74,17 @@ I don't really have a narrative for everything nor can I include every single pl
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0 col-max-size">
-        {% include figure.liquid loading="eager" path="assets/img/plants/part3/scindapsus.png" class="img-fluid rounded z-depth-1 fit-img"  %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/part3/scindapsus.png" class="img-fluid rounded z-depth-1 fit-img" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0 col-max-size">
-        {% include figure.liquid loading="eager" path="assets/img/plants/part3/melange.png" class="img-fluid rounded z-depth-1 fit-img"  %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/part3/melange.png" class="img-fluid rounded z-depth-1 fit-img" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0 col-max-size">
-        {% include figure.liquid loading="eager" path="assets/img/plants/part3/turtles.png" class="img-fluid rounded z-depth-1 fit-img"  %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0 col-max-size">
-        {% include figure.liquid loading="eager" path="assets/img/plants/part3/prayer_plant.png" class="img-fluid rounded z-depth-1 fit-img"  %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/part3/turtles.png" class="img-fluid rounded z-depth-1 fit-img"zoomable=true %}
     </div>
 </div>
 <div class="caption">
-    From left to right: scindapsus pictus, mix of heart leaf and micans philodendrons, string of turtles (propagation), prayer plant.
+    From left to right: scindapsus pictus, mix of heart leaf and micans philodendrons, string of turtles (propagation).
 </div>
 
 <div class="row mt-3">
@@ -123,8 +120,8 @@ I bought a gorgeous Hoya Publicalyx from Facebook marketplace and I instantly fe
     <div class="col-sm mt-3 mt-md-0 col-max-size">
         {% include figure.liquid loading="eager" path="assets/img/plants/part3/room_window.png" class="img-fluid rounded z-depth-1 fit-img"  %}
     </div>
-    <div class="col-sm mt-3 mt-md-0 col-max-size">
-        {% include figure.liquid loading="eager" path="assets/img/plants/part2/elinor_hoya.png" class="img-fluid rounded z-depth-1 fit-img"  %}
+    <div class="col-sm-6 mt-3 mt-md-0 col-max-size">
+        {% include figure.liquid loading="eager" path="assets/img/plants/part3/elinor_hoya.png" class="img-fluid rounded z-depth-1 fit-img"  %}
     </div>
 </div>
 <div class="caption">
