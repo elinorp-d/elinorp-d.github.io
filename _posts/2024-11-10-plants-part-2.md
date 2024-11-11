@@ -76,6 +76,8 @@ It seems the current plant inventory was:
      <div class="col-sm mt-3 mt-md-0 col-max-size">
         {% include figure.liquid loading="eager" path="assets/img/plants/part2/shelf.png" class="img-fluid rounded z-depth-1 fit-img" zoomable=true %}
     </div>
+</div>
+<div class="row mt-3">
      <div class="col-sm mt-3 mt-md-0 col-max-size">
         {% include figure.liquid loading="eager" path="assets/img/plants/part2/skylight.png" class="img-fluid rounded z-depth-1 fit-img" zoomable=true %}
     </div>
