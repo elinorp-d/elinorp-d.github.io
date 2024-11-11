@@ -80,7 +80,7 @@ I don't really have a narrative for everything nor can I include every single pl
         {% include figure.liquid loading="eager" path="assets/img/plants/part3/melange.png" class="img-fluid rounded z-depth-1 fit-img" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0 col-max-size">
-        {% include figure.liquid loading="eager" path="assets/img/plants/part3/turtles.png" class="img-fluid rounded z-depth-1 fit-img"zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/part3/turtles.png" class="img-fluid rounded z-depth-1 fit-img" zoomable=true %}
     </div>
 </div>
 <div class="caption">
