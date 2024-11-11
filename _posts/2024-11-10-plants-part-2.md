@@ -67,20 +67,20 @@ It seems the current plant inventory was:
 * a couple others my roommate brought from home
 
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0 col-max-size">
-        {% include figure.liquid loading="eager" path="assets/img/plants/part2/bar.png" class="img-fluid rounded z-depth-1 fit-img"  %}
+    <div class="col-sm mt-3 mt-md-0 ">
+        {% include figure.liquid loading="eager" path="assets/img/plants/part2/bar.png" class="img-fluid rounded z-depth-1 fit-img" zoomable=true %}
     </div>
-    <div class="col-sm mt-3 mt-md-0 col-max-size">
-        {% include figure.liquid loading="eager" path="assets/img/plants/part2/living_room.png" class="img-fluid rounded z-depth-1 fit-img"  %}
-    </div>
-     <div class="col-sm mt-3 mt-md-0 col-max-size">
-        {% include figure.liquid loading="eager" path="assets/img/plants/part2/shelf.png" class="img-fluid rounded z-depth-1 fit-img"  %}
+    <div class="col-sm mt-3 mt-md-0 ">
+        {% include figure.liquid loading="eager" path="assets/img/plants/part2/living_room.png" class="img-fluid rounded z-depth-1 fit-img" zoomable=true %}
     </div>
      <div class="col-sm mt-3 mt-md-0 col-max-size">
-        {% include figure.liquid loading="eager" path="assets/img/plants/part2/skylight.png" class="img-fluid rounded z-depth-1 fit-img"  %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/part2/shelf.png" class="img-fluid rounded z-depth-1 fit-img" zoomable=true %}
     </div>
      <div class="col-sm mt-3 mt-md-0 col-max-size">
-        {% include figure.liquid loading="eager" path="assets/img/plants/part2/window.png" class="img-fluid rounded z-depth-1 fit-img"  %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/part2/skylight.png" class="img-fluid rounded z-depth-1 fit-img" zoomable=true %}
+    </div>
+     <div class="col-sm mt-3 mt-md-0 col-max-size">
+        {% include figure.liquid loading="eager" path="assets/img/plants/part2/window.png" class="img-fluid rounded z-depth-1 fit-img" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -88,21 +88,21 @@ It seems the current plant inventory was:
 </div>
 
 ### surviving the winter
-For some reason, I did not take many photos<d-footnote>This is absurd to me right now because my camera roll is _full_ of plants usually.</d-footnote> but we acquired a ton of plants over the next couple months. For example, it took _8 minutes of video_ for me to document the plant watering for my friend to take care of them over Christmas/New Year's. I moved all of them to the center of the living room and my bedroom and grouped by levels/types of care. I took some screenshots of the videos and counted at least 50 plants!
+For some reason, I did not take many photos<d-footnote>This is absurd to me right now because my camera roll is full of plants usually.</d-footnote> but we acquired a ton of plants over the next couple months. For example, it took _8 minutes of video_ for me to document the plant watering for my friend to take care of them over Christmas/New Year's. I moved all of them to the center of the living room and my bedroom and grouped by levels/types of care. I took some screenshots of the videos and counted at least 50 plants!
 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0 col-max-size">
-        {% include figure.liquid loading="eager" path="assets/img/plants/part2/table_all.png" class="img-fluid rounded z-depth-1 fit-img"  %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/part2/table_all.png" class="img-fluid rounded z-depth-1 fit-img" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0 col-max-size">
-        {% include figure.liquid loading="eager" path="assets/img/plants/part2/glass_shelf.png" class="img-fluid rounded z-depth-1 fit-img"  %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/part2/glass_shelf.png" class="img-fluid rounded z-depth-1 fit-img" zoomable=true %}
     </div>
      <div class="col-sm mt-3 mt-md-0 col-max-size">
-        {% include figure.liquid loading="eager" path="assets/img/plants/part2/table_left.png" class="img-fluid rounded z-depth-1 fit-img"  %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/part2/table_left.png" class="img-fluid rounded z-depth-1 fit-img" zoomable=true %}
     </div>
      <div class="col-sm mt-3 mt-md-0 col-max-size">
-        {% include figure.liquid loading="eager" path="assets/img/plants/part2/table_right.png" class="img-fluid rounded z-depth-1 fit-img"  %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/part2/table_right.png" class="img-fluid rounded z-depth-1 fit-img" zoomable=true %}
     </div>
 </div>
 <div class="caption">
