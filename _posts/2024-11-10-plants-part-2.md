@@ -11,7 +11,7 @@ featured: true
 toc:
   - name: Montreal
     # if a section has subsections, you can add them as follows:
-    # subsections:
+    subsections:
       - name: surviving the winter
     #   - name: Example Child Subsection 2
 #   - name: In the beginning
@@ -63,6 +63,7 @@ It seems the current plant inventory was:
 * 1 rubber plant (ficus tineke)
 * 1 mother of thousands succulent
 * philodendron propagations
+* scindapsus pictus
 * a couple others my roommate brought from home
 
 <div class="row mt-3">
