@@ -86,30 +86,16 @@
       "location": "Montreal, Canada"
     },
     {
-      "name": "Mila Quebec AI Institute",
+      "name": "McGill University",
       "position": "Undergraduate Student Researcher",
-      "startDate": "01/2021",
-      "endDate": "05/2021",
+      "startDate": "01/2022",
+      "endDate": "05/2022",
       "highlights": [
-        "Evaluated gender debiasing techniques on pre-trained language models using NLP (paper accepted to ACL'22).","Investigated the effect of gender debiasing on fine-tuned language models such as BERT using PyTorch.","Explored debiasing methods and reformulated bias metrics for racial and religious biases."
+        "Models used to create an educational resource, LocatEd, for increasing location privacy awareness among Canadian youth.",
+        "Supervised by Dr. Grant McKenzie."
       ],
-      "summary": "",
-      "url": "https://mila.quebec/en",
-      "location": "Montreal, Canada"
-    },
-    {
-      "name": "Men Having Babies, Inc",
-      "position": "Web Developer",
-      "startDate": "09/2017",
-      "endDate": "09/2022",
-      "highlights": [
-        "Completely modernized the organization's website and ensure responsiveness for mobile users using RapidWeaver.",
-        "Lead the project to facilitate workflow and data management for website and incorporated a CMS.",
-        "Engineered multiple user database systems in Alchemer using complex logical sequences."
-      ],
-      "summary": "",
-      "url": "https://menhavingbabies.org",
-      "location": "New York, NY"
+      "summary": "Built probabilistic models for identifying the “geo-indicativeness” of text using novel machine learning techniques applied to big, public, geosocial datasets.",
+      "url": "https://www.linkedin.com/school/mcgill-university/"
     },
     {
       "name": "McGill University",
@@ -125,18 +111,6 @@
       "location": "Montreal, Canada"
     },
     {
-      "name": "McGill University",
-      "position": "Undergraduate Student Researcher",
-      "startDate": "01/2022",
-      "endDate": "05/2022",
-      "highlights": [
-        "Models used to create an educational resource, LocatEd, for increasing location privacy awareness among Canadian youth.",
-        "Supervised by Dr. Grant McKenzie."
-      ],
-      "summary": "Built probabilistic models for identifying the “geo-indicativeness” of text using novel machine learning techniques applied to big, public, geosocial datasets.",
-      "url": "https://www.linkedin.com/school/mcgill-university/"
-    },
-    {
       "name": "Shamoon College of Engineering",
       "position": "Student Researcher",
       "startDate": "06/2021",
@@ -149,6 +123,20 @@
       "url": "https://en.sce.ac.il/",
       "location": "Be'er Sheva, Israel"
     },
+    {
+      "name": "Mila Quebec AI Institute",
+      "position": "Undergraduate Student Researcher",
+      "startDate": "01/2021",
+      "endDate": "05/2021",
+      "highlights": [
+        "Evaluated gender debiasing techniques on pre-trained language models using NLP (paper accepted to ACL'22).","Investigated the effect of gender debiasing on fine-tuned language models such as BERT using PyTorch.","Explored debiasing methods and reformulated bias metrics for racial and religious biases."
+      ],
+      "summary": "",
+      "url": "https://mila.quebec/en",
+      "location": "Montreal, Canada"
+    }
+  ],
+  "more_work": [
     {
       "name": "Project Kesher",
       "position": "Summer Intern",
@@ -173,6 +161,20 @@
       "summary": "Built and maintained woodland trails, removed invasive plant species, implemented erosion control and helped document the process of restoring the disturbed woodland toward a more balanced state while working with a small crew.",
       "url": "https://wavehill.org",
       "location": "Riverdale, New York"
+    },
+    {
+      "name": "Men Having Babies, Inc",
+      "position": "Web Developer",
+      "startDate": "09/2017",
+      "endDate": "09/2022",
+      "highlights": [
+        "Completely modernized the organization's website and ensure responsiveness for mobile users using RapidWeaver.",
+        "Lead the project to facilitate workflow and data management for website and incorporated a CMS.",
+        "Engineered multiple user database systems in Alchemer using complex logical sequences."
+      ],
+      "summary": "",
+      "url": "https://menhavingbabies.org",
+      "location": "New York, NY"
     }
   ],
   "service": [
