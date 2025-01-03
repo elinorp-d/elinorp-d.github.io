@@ -42,7 +42,6 @@
         - Optimized deep learning algorithms to throttle bid requests in Unity's Ad Exchange using Tensorflow.
         - Decreased model training time by 25% and reduced model size and number of parameters by 50%.
         - Created a text data preprocessing pipeline on Google Cloud Platform Dataflow using Apache beam.
-
     - title: Undergraduate NLP Researcher
       institution: Mila Quebec
       year: 2021
@@ -52,6 +51,16 @@
         - title: Supervised by
           contents: 
             - Siva Reddy
+    - title: NLP Research Intern
+      institution: Shamoon College of Engineering
+      year: 2021
+      description: 
+        - Classified author gender of books to perform a case study on female authors who wrote under male pseudonyms.
+        - Preprocessed data using CoreNLP and scikit-learn. Designed and implemented baseline experiments using SVMs.
+        - title: Supervised by
+          contents:
+          - Irina Rabaev and Marina Litvak
+    
 
 # - title: Honors and Awards
 #   type: time_table
