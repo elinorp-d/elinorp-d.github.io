@@ -1,14 +1,14 @@
 <ul class="card-text font-weight-light list-group list-group-flush">
   {% assign work = data[1] %}
-  {% for content in work %}
+  {% assign sortable_work = work | map: 'startDate' | map: 'split: '/' | reverse' %}
+  {% assign sorted_work = work | sort: 'sortable_work' | reverse %}
+  {% for content in sorted_work %}
     <li class="list-group-item">
       <div class="row">
         <div class="col-xs-2 cl-sm-2 col-md-2 text-center date-column">
           {% if content.startDate %}
-            {% assign startDate = content.startDate | split: '-' | slice: 0, 2 | join: '.' %}
-            {% assign endDate = content.endDate | split: '-' | slice: 0, 2 | join: '.' | default: 'Present' %}
-            {% assign date = startDate | append: ' - ' %}
-            {% assign date = date | append: endDate %}
+            {% assign startDate = content.startDate %}
+            {% assign endDate = content.endDate | default: 'Present' %}
           {% else %}
             {% assign date = '' %}
           {% endif %}
