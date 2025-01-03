@@ -64,39 +64,44 @@
     {
       "name": "MIT Center for Constructive Communication",
       "position": "Research Assistant",
-      "startDate": "2023-09-30",
-      "endDate": "",
+      "startDate": "09/2023",
+      "endDate": "present",
       "highlights": [],
       "url": "https://www.linkedin.com/company/cccatmit/",
-      "location": "Cambridge, Massachusetts, United States"
+      "location": "Cambridge, MA"
     },
     {
       "name": "Unity",
       "position": "Data Science Intern",
-      "startDate": "2022-05-31",
-      "endDate": "2022-08-31",
-      "highlights": [],
-      "summary": "Worked on the Ad Unit Innovation team and conducted feature engineering and hyperparameter tuning experiments on the bid throttling model. \nDecreased model training time by 25% and reduced model size and number of parameters by 50%.\nBegan an initiative to incorporate app store game reviews as a new feature to the Ad Revenue model. Cleaned and explored data, built a neural network for sentiment analysis, and calculated the vector space embedding of each game. \nCreated a data pipeline to do all of the preprocessing and vectorization in GCP Dataflow to speed up the process as well as make it more flexible and more easily reused.",
+      "startDate": "05/2022",
+      "endDate": "08/2022",
+      "highlights": [
+        "Decreased model training time by 25% and reduced model size and number of parameters by 50%.",
+        "Began an initiative to incorporate app store game reviews as a new feature to the Ad Revenue model.",
+        "Cleaned and explored data, built a neural network for sentiment analysis, and calculated the vector space embedding of each game.",
+        "Created a data pipeline to do all of the preprocessing and vectorization in GCP Dataflow to speed up the process as well as make it more flexible and more easily reused."
+      ],
+      "summary": "Worked on the Ad Unit Innovation team and conducted feature engineering and hyperparameter tuning experiments on the bid throttling model.",
       "url": "https://www.linkedin.com/company/unity/",
-      "location": "Montreal, Quebec, Canada"
+      "location": "Montreal, Canada"
     },
     {
       "name": "Mila Quebec AI Institute",
       "position": "Undergraduate Student Researcher",
-      "startDate": "2021-01-31",
-      "endDate": "2021-05-31",
+      "startDate": "01/2021",
+      "endDate": "05/2021",
       "highlights": [
         "Evaluated gender debiasing techniques on pre-trained language models using NLP (paper accepted to ACL'22).","Investigated the effect of gender debiasing on fine-tuned language models such as BERT using PyTorch.","Explored debiasing methods and reformulated bias metrics for racial and religious biases."
       ],
       "summary": "",
       "url": "https://mila.quebec/en",
-      "location": "Montreal, Quebec, Canada"
+      "location": "Montreal, Canada"
     },
     {
       "name": "Men Having Babies, Inc",
       "position": "Web Developer",
-      "startDate": "2017-09-30",
-      "endDate": "2022-08-31",
+      "startDate": "09/2017",
+      "endDate": "09/2022",
       "highlights": [
         "Completely modernized the organization's website and ensure responsiveness for mobile users using RapidWeaver.",
         "Lead the project to facilitate workflow and data management for website and incorporated a CMS.",
@@ -104,26 +109,26 @@
       ],
       "summary": "",
       "url": "https://menhavingbabies.org",
-      "location": "Greater New York City Area"
+      "location": "New York, NY"
     },
     {
       "name": "McGill University",
       "position": "Honours Algorithms and Data Structures Course Assistant",
-      "startDate": "2022-01-31",
-      "endDate": "2022-04-30",
+      "startDate": "01/2022",
+      "endDate": "05/2022",
       "highlights": [
         "Held weekly office hours for students in the course to answer their questions and help with assignments.",
         "Developed solutions for and graded assignments and exams."
       ],
       "summary": "",
       "url": "https://mcgill.ca",
-      "location": "Montreal, Quebec, Canada"
+      "location": "Montreal, Canada"
     },
     {
       "name": "McGill University",
       "position": "Undergraduate Student Researcher",
-      "startDate": "2022-01-31",
-      "endDate": "2022-04-30",
+      "startDate": "01/2022",
+      "endDate": "05/2022",
       "highlights": [
         "Models used to create an educational resource, LocatEd, for increasing location privacy awareness among Canadian youth.",
         "Supervised by Dr. Grant McKenzie."
@@ -132,10 +137,10 @@
       "url": "https://www.linkedin.com/school/mcgill-university/"
     },
     {
-      "name": "SCE - Shamoon College of Engineering",
+      "name": "Shamoon College of Engineering",
       "position": "Student Researcher",
-      "startDate": "2021-06-30",
-      "endDate": "2021-08-31",
+      "startDate": "06/2021",
+      "endDate": "08/2021",
       "highlights": [
         "Preprocessed and cleaned data using Stanford CoreNLP and scikit-learn.","Designed and implemented baseline experiments using SVMs.",
         "Project supervised by Dr. Irina Rabaev and Dr. Marina Litvak."
@@ -147,24 +152,37 @@
     {
       "name": "Project Kesher",
       "position": "Summer Intern",
-      "startDate": "2020-05-31",
-      "endDate": "2020-07-31",
+      "startDate": "05/2020",
+      "endDate": "08/2020",
       "highlights": [
         "Coordinated with international partners and thoroughly documented the website for future reference.","Improved organization and security by introducing and implementing a password managing software.","Conducted foundation research in order to secure funding for the upcoming fiscal year.","Helped streamline workflow and increase at-home work efficiency."
       ],
       "summary": "Designed and created a multilingual website from scratch using WordPress.",
       "url": "https://www.projectkesher.org",
-      "location": "New York, New York, United States"
+      "location": "New York, NY"
     },
     {
       "name": "Wave Hill",
       "position": "Forest Project Intern",
-      "startDate": "2019-06-30",
-      "endDate": "2019-08-31",
-      "highlights": [],
-      "summary": "Built and maintained woodland trails, removed invasive plant species, implemented erosion control and helped document the process of restoring the disturbed woodland toward a more balanced state while working with a small crew. \nExcelled in a college level Gographic Information Systems (GIS) course.\nConducted a field research project using independently collected data from the worksite and arcGIS software.",
+      "startDate": "06/2019",
+      "endDate": "08/2019",
+      "highlights": [
+        "Excelled in a college level Geographic Information Systems (GIS) course.",
+        "Conducted a field research project using independently collected data from the worksite and arcGIS software."
+      ],
+      "summary": "Built and maintained woodland trails, removed invasive plant species, implemented erosion control and helped document the process of restoring the disturbed woodland toward a more balanced state while working with a small crew.",
       "url": "https://wavehill.org",
       "location": "Riverdale, New York"
+    }
+  ],
+  "service": [
+    {
+      "name": "Reviewer for ACL Rolling Review (ARR) December",
+      "date": "01/2025"
+    },
+    {
+      "name": "Reviewer for ACL Rolling Review (ARR) October",
+      "date": "11/2024"
     }
   ],
   "skills": [
@@ -204,43 +222,43 @@
     {
       "title": "Canadian Graduate Scholarship - Master's",
       "awarder": "Natural Sciences and Engineering Research Council of Canada (NSERC)",
-      "date": "2023-04-02",
+      "date": "04/2023",
       "summary": "$17,500"
     },
     {
       "title": "Excellence Scholarship - EDI in Research",
       "awarder": "Mila Quebec AI Institute",
-      "date": "2023-04-02",
+      "date": "04/2023",
       "summary": "$5,000"
     },
     {
       "title": "Dean's Honour List",
-      "date": "2022-05-02",
+      "date": "2019-2022",
       "awarder": "McGill University",
       "summary": "Top 10% of students by GPA."
     },
     {
       "title": "J W McConnell Scholarship",
       "awarder": "McGill University",
-      "date": "2022-05-02",
+      "date": "2019-2022",
       "summary": "$9,000"
     },
     {
       "title": "Principal's Award for Outstanding Academic Achievement",
       "awarder": "Bronx High School of Science",
-      "date": "2019-06-10",
+      "date": "06/2019",
       "summary": "Awarded to top students for outstanding academic achievement and leadership and service to the school."
     },
     {
       "title": "NY Cardiac Center Scholarship",
       "awarder": "NY Cardiac Center Scholarship",
-      "date": "2019-06-10",
+      "date": "06/2019",
       "summary": "$20,000. Awarded to top 3 GPA in graduating class of 750 students."
     },
     {
       "title": "National Merit Scholarship Award Winner",
       "awarder": "National Merit Scholarship Corporation",
-      "date": "2018-04-31",
+      "date": "04/2018",
       "summary": ""
     }
   ]
