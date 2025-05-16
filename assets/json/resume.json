@@ -18,9 +18,10 @@
       "area": "Center for Constructive Communication",
       "studyType": "Master of Science",
       "startDate": "09/2023",
-      "endDate": "present",
+      "endDate": "05/2025",
       "highlights": [
-        "Supervised by Professor Deb Roy."
+        "Supervised by Professor Deb Roy.",
+        "Thesis title: From Dialogue to Decision: An LLM-Powered Framework for Analyzing Collective Idea Evolution and Voting Dynamics in Deliberative Assemblies"
       ]
     },
     {
@@ -35,6 +36,11 @@
   ],
 
   "publications": [
+    {
+      "name": "From Dialogue to Decision: An LLM-Powered Framework for Analyzing Collective Idea Evolution and Voting Dynamics in Deliberative Assemblies",
+      "publisher": "Master's thesis, Massachussets Institute of Technology",
+      "releaseDate": "05/2025"
+    },
     {
       "name": "LLM Targeted Underperformance Disproportionately Impacts Vulnerable Users",
       "publisher": "Safe Generative AI Workshop @ NeurIPS 2024",
