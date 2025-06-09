@@ -18,11 +18,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I'm currently doing my master's at the MIT [Center for Constructive Communication](https://www.ccc.mit.edu/) at the [Media Lab](https://www.media.mit.edu) supervised by [Deb Roy](https://www.media.mit.edu/people/dkroy/overview/). I did my undergrad at McGill University in Montreal, Canada and did research with [Siva Reddy](https://sivareddy.in/) at [Mila Quebec](https://mila.quebec/en).
+I just completed my Master's at the MIT [Center for Constructive Communication](https://www.ccc.mit.edu/) at the [Media Lab](https://www.media.mit.edu) supervised by [Deb Roy](https://www.media.mit.edu/people/dkroy/overview/). I did my Bachelor's in Honours Math and Computer Science at McGill University in Montreal, Canada and did research with [Siva Reddy](https://sivareddy.in/) at [Mila Quebec](https://mila.quebec/en).
 
 I'm passionate about equitable, pluralistic, safe AI for the benefit of all. My research interests include evaluation of LLMs for fairness and safety, pluralistic alignment, and developing equitable human-centered AI. 
 
-Currently, my master's thesis focuses on leveraging large language models to understand diverse, evolving perspectives in dynamic deliberation and augmenting Citizens' Assemblies through identifying bridging statements, fairly representing the collective stance, and amplifying underheard voices.
+In my Master's thesis, I developed an LLM-powered framework for analyzing how ideas evolve into policy recommendations in deliberative assemblies and how dialogue shapes the collective stance and voting behavior. I identified key drivers behind shifts in delegate support and introduced methods to reconstruct opinion change dynamics directly from transcripts using LLMs. In doing so, I demonstrated how LLMs can surface deliberative mechanisms that are often hidden from view, pointing toward tools that enhance transparency and fairness in real-world decision-making.
+
 
 My background is in mathematics, computer science, and natural language processing (NLP) with a focus on addressing harmful biases in language models. I also have experience in vision-and-language models such as Stable Diffusion. Beyond my academic pursuits, I am enthusiastic about linguistics, playing ultimate frisbee, and [nurturing a growing collection of house plants](https://elinorp-d.github.io/blog/).
 
