@@ -3,7 +3,7 @@ layout: page
 title: Interplay Between Implicit Bias and Sycophancy in LLMs
 subtitle: Implications for Fairness in Educational Decisions
 img: assets/img/bias_syco_poster.png
-importance: 1
+importance: 2
 
 styles: >
     fivehundred {
