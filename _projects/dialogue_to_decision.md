@@ -1,8 +1,8 @@
 ---
 layout: page
-title: From Dialogue to Decision: An LLM-Powered Framework for Analyzing Collective Idea Evolution and Voting Dynamics in Deliberative Assemblies
+title: "From Dialogue to Decision: An LLM-Powered Framework for Analyzing Collective Idea Evolution and Voting Dynamics in Deliberative Assemblies"
 subtitle: Elinor's Master's Thesis
-img: assets/img/visualization_clusters.png
+img: assets/img/thesis_img.png
 importance: 1
 
 styles: >
@@ -14,7 +14,7 @@ styles: >
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/visualization_clusters.png" class="img-fluid rounded z-depth-1 fivehundred" %}
+        <img src="/assets/img/thesis_img.png" class="img-fluid rounded z-depth-1 fivehundred" alt="Visualization Clusters" />
     </div>
 </div>
 <div class="caption">
