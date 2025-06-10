@@ -1,7 +1,8 @@
 ---
 layout: page
-title: "From Dialogue to Decision: An LLM-Powered Framework for Analyzing Collective Idea Evolution and Voting Dynamics in Deliberative Assemblies"
-subtitle: Elinor's Master's Thesis
+title: From Dialogue to Decision
+subtitle: An LLM-Powered Framework for Analyzing Collective Idea Evolution and Voting Dynamics in Deliberative Assemblies
+description: Master's thesis supervised by Deb Roy, MIT
 img: assets/img/thesis_img.png
 importance: 1
 
@@ -18,7 +19,7 @@ styles: >
     </div>
 </div>
 <div class="caption">
-    Presenting an early demo of my work during the [MIT Student Assembly](https://sustainabilityassembly.portal.cortico.ai/) in January 2025. Photo by Artemisia Luk.
+    Presenting an early demo of my work during the <a href="https://sustainabilityassembly.portal.cortico.ai/">MIT Student Assembly</a> in January 2025. Photo by Artemisia Luk.
 </div>
 
 ## Abstract
