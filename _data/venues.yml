@@ -1,15 +1,23 @@
 "EMNLP 2024":
-  color: "#06900c"
+  color: "#ed1c24"
   url: https://2024.emnlp.org/
 
+"EMNLP 2025":
+  color: "#ed1c24"
+  url: https://2025.emnlp.org/
+
 "NeuIPS 2024":
-  color: "#06900c"
+  color: "#68448b"
   url: https://neurips.cc/
 
 "NeurIPS 2023":
-  color: "#06900c"
+  color: "#68448b"
   url: https://neurips.cc/
 
 "ACL 2022":
-  color: "#06900c"
+  color: "#ed1c24"
   url: https://2022.aclweb.org/
+
+"MIT 2025":
+  color: "#750014"
+  url: https://web.mit.edu/
