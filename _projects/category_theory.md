@@ -29,8 +29,8 @@ Basically, in this semester I came to the conclusion that the abstractness of ma
 
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/yankingeqns.png" class="z-depth-1 eighthundred" %}
+    <div class="col-sm-9 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/yankingeqns.png" class="z-depth-1 img-fluid" %}
     </div>
 </div>
 <div class="caption">
