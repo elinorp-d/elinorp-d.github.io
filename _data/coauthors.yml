@@ -4,8 +4,7 @@
 
 "reddy":
   - firstname: ["Siva", "Siva Reddy", "S Reddy"]
-    url: https://sivareddy.in/home.html
-
+    url: https://sivareddy.in/
 "kabbara":
   - firstname: ["Jad", "Jad Kabbara", "J Kabbara"]
     url: https://www.mit.edu/~jkabbara/
@@ -27,3 +26,11 @@
 "brannon":
   - firstname: ["William", "Will", "William Brannon", "W Brannon"]
     url: https://willbrannon.com/
+
+"mohanty":
+  - firstname: ["Shrestha", "S Mohanty"]
+    url: https://shresh02.github.io/
+
+"overney":
+  - firstname: ["Cassandra", "Cassandra Overney", "C Overney"]
+    url: https://coverney.github.io/
