@@ -22,6 +22,8 @@ styles: >
     Presenting an early demo of my work during the <a href="https://sustainabilityassembly.portal.cortico.ai/">MIT Student Assembly</a> in January 2025. Photo by Artemisia Luk.
 </div>
 
+Download the PDF [here](https://dam-prod2.media.mit.edu/x/2025/05/16/poole-dayan-elinorpd-SM-MAS-2025-thesis_pfatKHE.pdf)!
+
 ## Abstract
 Deliberative assemblies—representative samples of citizens engaged in collective decision-making through facilitated learning and deliberation—are increasingly recognized as powerful tools for revitalizing democratic governance. Yet, core aspects of how deliberation shapes which ideas advance, how perspectives evolve, and why certain recommendations succeed remain opaque and underexamined. This thesis addresses these gaps by investigating: (1) How might we trace the evolution and distillation of ideas into concrete recommendations within deliberative assemblies? and (2) How does the deliberative process shape delegate perspectives and influence voting dynamics over the course of the assembly?
 
