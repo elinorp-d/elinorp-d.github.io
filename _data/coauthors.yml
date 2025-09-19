@@ -2,6 +2,10 @@
   - firstname: ["Deb", "Deb K.", "D. K.", "Deb Roy", "Deb K. Roy", "D Roy"]
     url: https://www.media.mit.edu/people/dkroy/overview/
 
+"bakker":
+  - firstname: ["Michiel", "Michiel A.", "M. A.", "Michiel Bakker", "Michiel A. Bakker", "M Bakker"]
+    url: https://miba.dev/
+
 "reddy":
   - firstname: ["Siva", "Siva Reddy", "S Reddy"]
     url: https://sivareddy.in/

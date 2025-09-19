@@ -9,3 +9,5 @@ cv_pdf: Elinor_Poole-Dayan_CV_Aug25.pdf
 # toc:
 #   sidebar: left
 ---
+
+Last updated August 2025.
