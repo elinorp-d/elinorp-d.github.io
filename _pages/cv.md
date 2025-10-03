@@ -4,10 +4,8 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: Elinor_Poole-Dayan_CV_Aug25.pdf
-# description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+cv_pdf: Elinor_Poole-Dayan_CV_Oct25.pdf
+description: Last updated October 2025.
 # toc:
 #   sidebar: left
 ---
-
-Last updated August 2025.
