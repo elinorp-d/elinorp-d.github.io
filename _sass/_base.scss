@@ -723,7 +723,7 @@ footer.sticky-bottom {
 
       .author {
         a {
-          border-bottom: 1px dashed var(--global-theme-color);
+          border-bottom: 0px dashed var(--global-theme-color);
 
           &:hover {
             border-bottom-style: solid;
@@ -732,18 +732,18 @@ footer.sticky-bottom {
         }
 
         > em {
-          border-bottom: 1px solid;
+          border-bottom: 1.5px solid;
           font-style: normal;
         }
 
         > span.more-authors {
           color: var(--global-text-color-light);
-          border-bottom: 1px dashed var(--global-text-color-light);
+          border-bottom: 0px dashed var(--global-text-color-light);
           cursor: pointer;
 
           &:hover {
             color: var(--global-text-color);
-            border-bottom: 1px dashed var(--global-text-color);
+            border-bottom: 0px dashed var(--global-text-color);
           }
         }
       }
