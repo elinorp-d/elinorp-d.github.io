@@ -4,19 +4,13 @@ title: Interplay Between Implicit Bias and Sycophancy in LLMs
 subtitle: Implications for Fairness in Educational Decisions
 img: assets/img/bias_syco_poster.png
 importance: 3
-
-styles: >
-    fivehundred {
-        max-height:500;
-        width: auto;
-    }
 ---
 
 Research final project for MIT seminar course 6.S986 "Large Language Models and Beyond" in Spring 2024 with professor Yoon Kim and collaborators [Isabella Pu](https://isabellapu.com/) and [Shrestha Mohanty](https://www.ccc.mit.edu/person/shrestha-mohanty/).
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/bias_syco_poster.png" class="img-fluid rounded z-depth-1 fivehundred" %}
+<div class="row justify-content-center">
+    <div class="col-8 col-sm-6 col-lg-5">
+        {% include figure.liquid path="assets/img/bias_syco_poster.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
