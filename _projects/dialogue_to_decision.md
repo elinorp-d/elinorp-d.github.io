@@ -17,7 +17,7 @@ related_publications: true
     Presenting an early demo of my work during the <a href="https://sustainabilityassembly.portal.cortico.ai/">MIT Student Assembly</a> in January 2025. Photo by Artemisia Luk.
 </div>
 
-Below is the abstract of my Master's thesis [@poole-dayan2025dialogue]. There is a shorter, more focused version [available on ArXiv](https://arxiv.org/abs/2509.12577) which was also accepted as an <i>Oral Presentation</i> at the [COLM 2025 NLP4Democracy Workshop](https://sites.google.com/andrew.cmu.edu/nlp4democracy/accepted-submissions) [@pooledayan2025aipoweredframework].
+Below is the abstract of my Master's thesis {% cite poole-dayan2025dialogue %}. There is a shorter, more focused version [available on ArXiv](https://arxiv.org/abs/2509.12577) which was also accepted as an <i>Oral Presentation</i> at the [COLM 2025 NLP4Democracy Workshop](https://sites.google.com/andrew.cmu.edu/nlp4democracy/accepted-submissions) {% cite pooledayan2025aipoweredframework %}.
 
 
 ## Abstract
