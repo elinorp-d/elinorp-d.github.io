@@ -6,6 +6,10 @@
   color: "#ed1c24"
   url: https://2025.emnlp.org/
 
+"NAACL 2025 WNU":
+  color: "##1f5454"
+  url: https://sites.google.com/cs.stonybrook.edu/wnu2025
+
 "NeurIPS 2024":
   color: "#68448b"
   url: https://neurips.cc/
