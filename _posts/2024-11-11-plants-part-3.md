@@ -19,7 +19,7 @@ toc:
 #   - name: The pandemic
 ---
 
-If you haven't seen [part 1](https://elinorp-d.github.io/blog/2024/plants-part-1/) or [part 2](https://elinorp-d.github.io/blog/2024/plants-part-2/), go check them out :)
+If you haven't seen [part 1](/blog/2024/plants-part-1/) or [part 2](/blog/2024/plants-part-2/), go check them out :)
 
 ## Spring 2021
 
