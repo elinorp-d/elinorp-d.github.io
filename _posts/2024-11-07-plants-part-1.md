@@ -114,19 +114,19 @@ Star Wars pothos and the philodendron micans are two of the plants that most sym
 
 
 <div class="row justify-content-center">
-    <div class="col-6 col-sm-7">
+    <div class="col-7 col-sm-4">
         {% include figure.liquid loading="eager" path="assets/img/plants/starwars/may_2020.png" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">
             May 4, 2020.
         </div>
     </div>
-    <div class="col-6 col-sm-7">
+    <div class="col-7 col-sm-4">
         {% include figure.liquid loading="eager" path="assets/img/plants/starwars/july_2020.png" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">
             July 2020.
         </div>
     </div>
-    <div class="col-6 col-sm-7">
+    <div class="col-7 col-sm-4">
         {% include figure.liquid loading="eager" path="assets/img/plants/starwars/july_2020_2.png" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">
             July 2020.
