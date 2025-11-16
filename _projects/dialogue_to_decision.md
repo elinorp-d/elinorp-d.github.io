@@ -5,24 +5,20 @@ subtitle: An LLM-Powered Framework for Analyzing Collective Idea Evolution and V
 description: Master's thesis supervised by Deb Roy, MIT
 img: assets/img/thesis_img.png
 importance: 1
-
-styles: >
-    fivehundred {
-        max-height:500;
-        width: auto;
-    }
+related_publications: true
 ---
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-4 mt-3 mt-md-0">
-        <img src="/assets/img/thesis_img.png" class="img-fluid rounded z-depth-1 fivehundred" alt="Visualization Clusters" />
+    <div class="col-10 col-sm-7">
+        <img src="/assets/img/thesis_img.png" class="z-depth-1 img-fluid rounded" alt="Visualization Clusters" />
     </div>
 </div>
 <div class="caption">
     Presenting an early demo of my work during the <a href="https://sustainabilityassembly.portal.cortico.ai/">MIT Student Assembly</a> in January 2025. Photo by Artemisia Luk.
 </div>
 
-Download the PDF [here](https://dam-prod2.media.mit.edu/x/2025/05/16/poole-dayan-elinorpd-SM-MAS-2025-thesis_pfatKHE.pdf)!
+Below is the abstract of my Master's thesis [@dayan2025dialogue]. There is a shorter, more focused version [available on ArXiv](https://arxiv.org/abs/2509.12577) which was also accepted as an <i>Oral Presentation</i> at the [COLM 2025 NLP4Democracy Workshop](https://sites.google.com/andrew.cmu.edu/nlp4democracy/accepted-submissions)[@pooledayan2025aipoweredframework].
+
 
 ## Abstract
 Deliberative assemblies—representative samples of citizens engaged in collective decision-making through facilitated learning and deliberation—are increasingly recognized as powerful tools for revitalizing democratic governance. Yet, core aspects of how deliberation shapes which ideas advance, how perspectives evolve, and why certain recommendations succeed remain opaque and underexamined. This thesis addresses these gaps by investigating: (1) How might we trace the evolution and distillation of ideas into concrete recommendations within deliberative assemblies? and (2) How does the deliberative process shape delegate perspectives and influence voting dynamics over the course of the assembly?
