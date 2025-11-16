@@ -16,7 +16,7 @@ During my undergrad at McGill in Fall of 2022, I did an honours independent stud
 > My goal was to learn enough category theory to deeply understand [An enriched category theory of language: from syntax to semantics](https://arxiv.org/abs/2106.07890) by Tai-Danae Bradley, John Terilla, and Yiannis Vlassopoulos. I am proud to say I achieved this goal and wrote a term paper with a discussion on the feasibility, applications, and future implications of using category theory for interpretable NLP on a broader scale. 
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-10 col-sm-7">
         {% include figure.liquid path="assets/img/bananasarefruits.png" class="z-depth-1 img-fluid" %}
     </div>
 </div>
@@ -33,7 +33,7 @@ Basically, in this semester I came to the conclusion that the abstractness of ma
 
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-9 mt-3 mt-md-0">
+    <div class="col-sm-9">
         {% include figure.liquid path="assets/img/yankingeqns.png" class="z-depth-1 img-fluid" %}
     </div>
 </div>
