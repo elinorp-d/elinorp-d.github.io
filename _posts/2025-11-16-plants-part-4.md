@@ -25,14 +25,14 @@ If you haven't seen [part 3](/blog/2024/plants-part-3/), go check it out :)
 ## Summer 2021
 
 ### disaster strikes
-In the summer of 2021 I was away doing an internship and upon my return, I discovered an insane thrips infestation that wrecked havoc over much of my plant collection. At the time, I had no idea what plant pests were and this was a relatively unfortunate introduction and I did not do a great job at dealing with it.<d-footnote>I didn't do much, and that was my biggest mistake. Never again!</d-footnote> 
+In the summer of 2021 I was away doing an internship and upon my return, I discovered an insane [thrips](https://www.houseplantjournal.com/thrips/) infestation that wrecked havoc over much of my plant collection. At the time, I had no idea what plant pests were and this was a relatively unfortunate introduction and I did not do a great job at dealing with it.<d-footnote>I didn't do much, and that was my biggest mistake. Never again!</d-footnote> 
 
 <div class="row justify-content-center">
     <div class="col-8 col-sm-6 col-lg-5">
         {% include figure.liquid loading="eager" path="assets/img/plants/part4/monstera_thrips_sep_2021.png" class="img-fluid rounded z-depth-1"  %}
     </div>
 </div>
-<div class="caption">You can see the thrips damage on the top leaf, and the white dots on the lower leaves are the thrips themselves. Oof.</div>
+<div class="caption">You can see the thrips damage on the top leaf, and the white dots on the lower leaves are the thrips (larvae?) themselves. Oof.</div>
 
 ## Fall 2021
 
@@ -44,7 +44,7 @@ Remember Star Wars Pothos that I'd propagated on May 4th, 2020? I used command s
 
 <div class="row justify-content-center">
     <div class="col-8 col-lg-6">
-        {% include figure.liquid loading="eager" path="assets/img/plants/starwars/desk_sept_dec_2021.png" class="img-fluid rounded z-depth-1"  %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/starwars/desk_sept_dec_2021.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
@@ -56,7 +56,7 @@ I wanted my hoya compacta to live, but this lil guy had other plans. In October 
     <div class="col-8">
         {% include figure.liquid loading="eager" path="assets/img/plants/part4/hoyacompacta/chop_oct2021.png" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">
-            In October 2021, I chopped and propagated this hoya. The little jar on the right never grew anything and eventually died about a year later.
+            In October 2021, I chopped and propagated this hoya. The little jar on the left never grew anything and eventually died about a year later.
         </div>
     </div>
 </div>
