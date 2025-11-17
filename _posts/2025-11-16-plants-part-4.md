@@ -3,7 +3,7 @@ layout: distill
 title: I have a lot of plants (Part 4)
 date: 2025-11-16
 description: A brief history of Elinor and her plants 
-tags: plants
+tags: plants history
 categories: plants
 thumbnail: assets/img/plants/part4/livingroom_oct2021.png
 featured: true

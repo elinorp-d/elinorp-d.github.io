@@ -3,7 +3,7 @@ layout: distill
 title: I have a lot of plants (Part 1)
 date: 2024-11-07
 description: A brief history of Elinor and her plants 
-tags: plants
+tags: plants history
 categories: plants
 thumbnail: assets/img/plants/window_collection_6_2024.png
 featured: true
