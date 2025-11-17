@@ -19,7 +19,7 @@ toc:
 
 ---
 
-I currently have over 50 plants in my current collection, though previously I've had over 100<d-footnote>I'll never admit that this is too many plants... Although it was nearly impossible to keep such a large collection pest-free while a full-time student.</d-footnote>
+I currently have over 50 plants in my current collection, though previously I've had over 100...<d-footnote>I'll never admit that this is too many plants... Although it was nearly impossible to keep such a large collection pest-free while a full-time student.</d-footnote>
 
 I've come a long way with learning how to take care of all sorts of different plants. Along the way, I've developed a taste for different flavours of plant-parenting styles and preferences for different species. I'd describe my current state as _Hoya enthusiast with a tendency to water based solely on ~vibes~_.
 
@@ -55,7 +55,7 @@ I also got a snake plant right before I left for university.
 
 ### then, a pineapple
 
-I moved to Montreal for university<d-footnote>McGill!</d-footnote> and needed to feel a semblance of homeyness in my new dorm, so I immediately capitalized on my new independence to purchase several plants, including a golden pothos, a curly spider plant, a small bird of paradise, and a _pineapple plant_!<d-footnote>Purchased from [Leaves Cafe](https://maps.app.goo.gl/EiwxsHBTZrxBJo8T7)</d-footnote> This was very exciting and brought me lots of joy and attention for growing a tiny little pineapple from my dorm room.
+I moved to Montreal for university<d-footnote>McGill!</d-footnote> and needed to feel a semblance of homeyness in my new dorm, so I immediately capitalized on my new independence to purchase several plants, including a golden pothos, a curly spider plant, a small bird of paradise, and a _pineapple plant!_<d-footnote>Purchased from <a href="https://maps.app.goo.gl/EiwxsHBTZrxBJo8T7" target="_blank">Leaves Cafe</a></d-footnote> This was very exciting and brought me lots of joy and attention for growing a tiny little pineapple from my dorm room.
 
 
 <div class="row justify-content-center">
@@ -93,7 +93,7 @@ This was a time in which many folks began their houseplant journeys. For me, thi
 
 ### propagation exponentiation
 
-Putting my newly learned skills to the test, I took cuttings of my dad's arrow plant and pothos plants. I propagated the former in water and the latter in soil on Star Wars Day (May 4th, 2020). I also propagated some heart leaf philodendron and three singular philodendron micans nodes from my friend's mom<d-footnote>Shoutout Gosha! <3</d-footnote>.
+Putting my newly learned skills to the test, I took cuttings of my dad's arrow plant and pothos plants. I propagated the former in water and the latter in soil on Star Wars Day (May 4th, 2020). I also propagated some heart leaf philodendron and three singular philodendron micans nodes from my friend's mom.<d-footnote>Shoutout Gosha! <3</d-footnote>
 
 Star Wars pothos and the philodendron micans are two of the plants that most symbolize my plant journey and I will certainly have entire posts dedicated them. 
 
