@@ -50,3 +50,12 @@
 "ganz":
   - firstname: ["Marshall", "Marshall Ganz", "M Ganz"]
     url: https://www.hks.harvard.edu/faculty/marshall-ganz
+
+
+"sorensen":
+  - firstname: ["Taylor", "Taylor Sorensen", "T Sorensen"]
+    url: https://tsor13.github.io/
+
+"Pei":
+  - firstname: ["Jiaxin", "Jiaxin Pei", "J Pei"]
+    url: https://jiaxin-pei.github.io/
