@@ -2,7 +2,7 @@
 layout: page
 title: LLMs for Public Narrative
 img: assets/img/pn_diagram.png
-importance: 2
+importance: 3
 related_publications: true
 ---
 
