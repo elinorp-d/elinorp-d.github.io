@@ -253,6 +253,23 @@
       {% if entry.demo %}
         <a href="{{ entry.demo }}" class="btn btn-sm z-depth-0" role="button">Demo</a>
       {% endif %}
+      {% if entry.news %}
+        {% if entry.news_url %}
+          {% if entry.news_url contains '://' %}
+            <a href="{{ entry.news_url }}" class="news btn btn-sm z-depth-0" role="button">
+              Covered by {{ entry.news }}
+            </a>
+          {% else %}
+            <a href="{{ entry.news_url | relative_url }}" class="news btn btn-sm z-depth-0" role="button">
+              Covered by {{ entry.news }}
+            </a>
+          {% endif %}
+        {% else %}
+          <a class="news btn btn-sm z-depth-0" role="button">
+            Covered by {{ entry.news }}
+          </a>
+        {% endif %}
+      {% endif %}
     </div>
     {% if site.enable_publication_badges %}
       {% assign entry_has_altmetric_badge = false %}
