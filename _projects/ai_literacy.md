@@ -3,7 +3,7 @@ layout: page
 title: Empowering K12 Educators: Fostering Collaborative Intelligence with Generative AI
 description: a project that redirects to another website
 img: assets/img/process-diagram.jpg
-redirect: https://www.media.mit.edu/projects/empowering-k12-educators-fostering-collaborative-intelligence-with-generative-ai/overview/
+redirect: "https://www.media.mit.edu/projects/empowering-k12-educators-fostering-collaborative-intelligence-with-generative-ai/overview/"
 importance: 2
 ---
 
