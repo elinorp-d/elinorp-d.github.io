@@ -4,7 +4,7 @@ title: Interplay Between Implicit Bias and Sycophancy in LLMs
 subtitle: Implications for Fairness in Educational Decisions
 description: Research final project for MIT seminar course 6.S986 "Large Language Models and Beyond" in Spring 2024 with professor Yoon Kim.
 img: assets/img/bias_syco_poster.png
-importance: 3
+importance: 4
 ---
 <div class="row justify-content-center">
     <div class="col-8 col-sm-6 col-lg-5">
