@@ -182,6 +182,13 @@
       {{ entry.note | strip }}
     </div>
 
+    {% if entry.press %}
+      <!-- Press coverage block -->
+      <div class="press">
+        {{ entry.press | markdownify | remove: '<p>' | remove: '</p>' }}
+      </div>
+    {% endif %}
+
     <!-- Links/Buttons -->
     <div class="links">
       {% if entry.award %}
@@ -357,13 +364,6 @@
           {% endif %}
         </div>
       {% endif %}
-    {% endif %}
-
-    {% if entry.press %}
-      <!-- Press coverage block -->
-      <div class="press">
-        <p>{{ entry.press | markdownify }}</p>
-      </div>
     {% endif %}
 
     {% if entry.award %}

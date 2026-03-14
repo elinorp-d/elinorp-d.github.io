@@ -783,6 +783,12 @@ footer.sticky-bottom {
         }
       }
 
+      .press {
+        font-size: 0.875rem;
+        color: var(--global-text-color-light);
+        margin-bottom: 0.25rem;
+      }
+
       .hidden {
         font-size: 0.875rem;
         max-height: 0px;
