@@ -359,6 +359,13 @@
       {% endif %}
     {% endif %}
 
+    {% if entry.press %}
+      <!-- Press coverage block -->
+      <div class="press">
+        <p>{{ entry.press | markdownify }}</p>
+      </div>
+    {% endif %}
+
     {% if entry.award %}
       <!-- Hidden Award block -->
       <div class="award hidden d-print-inline">
