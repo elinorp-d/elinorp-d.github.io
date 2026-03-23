@@ -26,4 +26,4 @@ I'm passionate about equitable, pluralistic, safe AI for the benefit of all. My 
 
 My background is in mathematics, computer science, and natural language processing (NLP) with a focus on addressing harmful biases in language models. I also have experience in vision-and-language models such as Stable Diffusion. Beyond my academic pursuits, I am enthusiastic about linguistics, playing ultimate frisbee, and [nurturing a growing collection of house plants](https://elinorp-d.github.io/blog/).
 
-Feel free to reach out if you'd like to chat about any of the above!
+Feel free to <a href="mailto:elinorpd@mit.edu">reach out</a> if you'd like to chat about any of the above! Here are my <a href="/cv/" target="_blank">CV</a> and <a href="/assets/pdf/PhD_SoP_Elinor_Poole_Dayan_public.pdf" target="_blank">PhD Statement of Purpose</a>.
