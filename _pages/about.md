@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I'm an incoming PhD student at [MIT CSAIL](https://www.csail.mit.edu/), where I will be coadvised in by [Jacob Andreas](https://www.mit.edu/~jda/) in the [Language & Intelligence](https://lingo.csail.mit.edu/) group, [Michiel Bakker](https://miba.dev/), and [Mitchell Gordon](https://mitchellg.github.io/) in the [Interaction & Alignment](https://hci.csail.mit.edu/) group.
+I'm an incoming PhD student at [MIT CSAIL](https://www.csail.mit.edu/), where I will be coadvised by [Jacob Andreas](https://www.mit.edu/~jda/) in the [Language & Intelligence](https://lingo.csail.mit.edu/) group, [Mitchell Gordon](https://mitchellg.github.io/) in the [Interaction & Alignment](https://hci.csail.mit.edu/) group, and [Michiel Bakker](https://miba.dev/).
 Currently, I'm working as a predoctoral researcher with Michiel Bakker.
 
 I completed my Master's at the MIT [Center for Constructive Communication](https://www.ccc.mit.edu/) at the [Media Lab](https://www.media.mit.edu) supervised by [Deb Roy](https://www.media.mit.edu/people/dkroy/overview/). I did my Bachelor's in Honours Math and Computer Science at [McGill University](https://www.mcgill.ca/) in Montreal, Canada and did research with [Siva Reddy](https://sivareddy.in/) at [Mila - Quebec AI Institute](https://mila.quebec/en).
