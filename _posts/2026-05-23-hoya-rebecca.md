@@ -1,7 +1,7 @@
 ---
 layout: distill
 title: Hoya Rebecca
-date: 2026-05-23
+date: 2026-06-13
 description: The first hoya I bought when I moved to Cambridge to begin grad school at MIT
 tags: plants hoya
 categories: plants
@@ -17,7 +17,7 @@ Beyond flowers, hoyas are relatively easy to care for, which is a big bonus. The
 <div class="row justify-content-center">
     <div class="col-8 col-sm-6 col-lg-5">
         {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/may23_2026_bloom.png" class="img-fluid rounded z-depth-1" zoomable=true %}
-        <div class="caption">My first successful hoya rebecca bloom on May 23, 2026. So pink and delicately fuzzy! Smells amazing, sort of like a gardenia.</div>
+        <div class="caption">Hoya rebecca bloom on May 23, 2026. So pink and delicately fuzzy! Smells amazing, sort of like a gardenia.</div>
     </div>
 </div>
 
