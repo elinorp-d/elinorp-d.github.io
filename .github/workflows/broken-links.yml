@@ -51,13 +51,15 @@ jobs:
           # --base resolves root-relative links (/blog/..., /cv/, /assets/...)
           #   against the live site, since they're Jekyll permalinks not source files.
           #   (lychee in lychee-action@v1.9.0 uses --base, not the newer --base-url.)
-          # --max-concurrency 8 / --timeout 30 / --max-retries 5 / --retry-wait-time 2:
-          #   lychee defaults to 128 concurrent requests, whose burst trips
-          #   rate-limits/timeouts on big hosts (e.g. media.mit.edu) intermittently.
-          #   Lower concurrency + retries + a longer timeout make the check reliable.
+          # --accept-timeouts: don't fail the build on a timeout (transient host
+          #   slowness / datacenter-IP throttling); still fail on real 404s etc.
+          # --max-concurrency 8: lychee defaults to 128 concurrent requests, whose
+          #   burst trips rate-limits/timeouts on big hosts (e.g. media.mit.edu).
+          # --timeout 20 / --max-retries 2 / --retry-wait-time 1: kept modest so the
+          #   run stays fast (timeouts are tolerated, no need to retry hard).
           # --exclude: hosts that can't be verified from CI at all.
-          #   linkedin.com returns 999 to all bots; vermonthoyas.com responds
-          #   fine to browsers but consistently blocks GitHub's datacenter IPs.
+          #   linkedin.com returns 999 (an error, not a timeout) to all bots;
+          #   vermonthoyas.com consistently blocks GitHub's datacenter IPs.
           #   Both are valid links for human readers, just not CI-checkable.
           # --exclude-path: md files with liquid tags that lychee mis-parses.
-          args: --user-agent 'curl/7.54' --base https://elinorp-d.github.io --max-concurrency 8 --timeout 30 --max-retries 5 --retry-wait-time 2 --exclude 'linkedin\.com|vermonthoyas\.com' --exclude-path README.md --exclude-path _pages/404.md --exclude-path _pages/blog.md --verbose --no-progress './**/*.md' './**/*.html'
+          args: --user-agent 'curl/7.54' --base https://elinorp-d.github.io --accept-timeouts --max-concurrency 8 --timeout 20 --max-retries 2 --retry-wait-time 1 --exclude 'linkedin\.com|vermonthoyas\.com' --exclude-path README.md --exclude-path _pages/404.md --exclude-path _pages/blog.md --verbose --no-progress './**/*.md' './**/*.html'
