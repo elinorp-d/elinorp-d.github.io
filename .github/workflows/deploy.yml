@@ -77,6 +77,13 @@ jobs:
         with:
           python-version: "3.13"
           cache: "pip" # caching pip dependencies
+      - name: Install ImageMagick 🪄
+        # jekyll-imagemagick shells out to `convert` to generate the responsive
+        # .webp variants; the runner doesn't ship it by default, which caused
+        # "sh: 1: convert: not found" and skipped all image optimization.
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y imagemagick webp
       - name: Update _config.yml ⚙️
         uses: fjogeleit/yaml-update-action@main
         with:
