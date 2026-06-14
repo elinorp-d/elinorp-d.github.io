@@ -56,6 +56,8 @@ jobs:
         #                    the live site (they're Jekyll permalinks, not source files)
         #   --accept-timeouts tolerate transient slowness / datacenter-IP throttling;
         #                    genuine 404s still fail
+        #   --accept         treat 403/429 as OK: from CI those mean "host is blocking
+        #                    the bot" (e.g. m-a-hues.me, aaai.org), not a broken link
         #   --max-concurrency 8  avoid the default 128-request burst that trips host
         #                    rate-limits/timeouts (e.g. media.mit.edu)
         #   --timeout/retries kept modest so the run stays fast
@@ -67,6 +69,7 @@ jobs:
             --user-agent 'curl/7.54' \
             --base-url https://elinorp-d.github.io \
             --accept-timeouts \
+            --accept '200..=299,403,429' \
             --max-concurrency 8 --timeout 20 --max-retries 2 --retry-wait-time 1 \
             --exclude 'linkedin\.com|vermonthoyas\.com' \
             --exclude-path README.md --exclude-path _pages/404.md --exclude-path _pages/blog.md \
