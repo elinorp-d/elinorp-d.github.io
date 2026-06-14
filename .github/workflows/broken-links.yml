@@ -51,7 +51,9 @@ jobs:
           # --base resolves root-relative links (/blog/..., /cv/, /assets/...)
           #   against the live site, since they're Jekyll permalinks not source files.
           #   (lychee in lychee-action@v1.9.0 uses --base, not the newer --base-url.)
-          # --exclude linkedin.com: LinkedIn returns 999 to all automated clients
-          #   (bot wall), so it can't be verified and is a guaranteed false positive.
+          # --exclude: hosts that can't be verified from CI.
+          #   linkedin.com returns 999 to all bots; vermonthoyas.com responds
+          #   fine to browsers but blocks/times-out GitHub's datacenter IPs.
+          #   Both are valid links for human readers, just not CI-checkable.
           # --exclude-path: md files with liquid tags that lychee mis-parses.
-          args: --user-agent 'curl/7.54' --base https://elinorp-d.github.io --exclude 'linkedin\.com' --exclude-path README.md --exclude-path _pages/404.md --exclude-path _pages/blog.md --verbose --no-progress './**/*.md' './**/*.html'
+          args: --user-agent 'curl/7.54' --base https://elinorp-d.github.io --exclude 'linkedin\.com|vermonthoyas\.com' --exclude-path README.md --exclude-path _pages/404.md --exclude-path _pages/blog.md --verbose --no-progress './**/*.md' './**/*.html'
