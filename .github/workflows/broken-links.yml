@@ -45,24 +45,29 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Link Checker 🔗
-        uses: lycheeverse/lychee-action@v2.8.0
-        with:
-          fail: true
-          # Pin lychee to 0.24.2: --accept-timeouts needs >=0.24.0, and v2.8.0's
-          #   own default (0.23.0) doesn't have it. Pinning also matches the version
-          #   used for local verification, so local runs mirror CI exactly.
-          lycheeVersion: v0.24.2
-          # --base-url resolves root-relative links (/blog/..., /cv/, /assets/...)
-          #   against the live site, since they're Jekyll permalinks not source files.
-          # --accept-timeouts: don't fail the build on a timeout (transient host
-          #   slowness / datacenter-IP throttling); still fail on real 404s etc.
-          # --max-concurrency 8: lychee defaults to 128 concurrent requests, whose
-          #   burst trips rate-limits/timeouts on big hosts (e.g. media.mit.edu).
-          # --timeout 20 / --max-retries 2 / --retry-wait-time 1: kept modest so the
-          #   run stays fast (timeouts are tolerated, no need to retry hard).
-          # --exclude: hosts that can't be verified from CI at all.
-          #   linkedin.com returns 999 (an error, not a timeout) to all bots;
-          #   vermonthoyas.com consistently blocks GitHub's datacenter IPs.
-          #   Both are valid links for human readers, just not CI-checkable.
-          # --exclude-path: md files with liquid tags that lychee mis-parses.
-          args: --user-agent 'curl/7.54' --base-url https://elinorp-d.github.io --accept-timeouts --max-concurrency 8 --timeout 20 --max-retries 2 --retry-wait-time 1 --exclude 'linkedin\.com|vermonthoyas\.com' --exclude-path README.md --exclude-path _pages/404.md --exclude-path _pages/blog.md --verbose --no-progress './**/*.md' './**/*.html'
+        # Run lychee's official image pinned to 0.24.2 (the version used for local
+        #   verification, so CI mirrors local). We invoke the image directly rather
+        #   than lychee-action because the action's binary installer can't handle the
+        #   nested tarball layout of lychee >=0.24, and --accept-timeouts needs >=0.24.
+        # The docker exit code fails the step on real errors (replaces the action's
+        #   `fail: true`); --accept-timeouts means timeouts alone won't fail it.
+        # Flags:
+        #   --base-url       resolve root-relative links (/blog, /cv, /assets) against
+        #                    the live site (they're Jekyll permalinks, not source files)
+        #   --accept-timeouts tolerate transient slowness / datacenter-IP throttling;
+        #                    genuine 404s still fail
+        #   --max-concurrency 8  avoid the default 128-request burst that trips host
+        #                    rate-limits/timeouts (e.g. media.mit.edu)
+        #   --timeout/retries kept modest so the run stays fast
+        #   --exclude        linkedin.com (returns 999 to all bots) and vermonthoyas.com
+        #                    (blocks GitHub datacenter IPs) — valid links, not CI-checkable
+        #   --exclude-path   md files with liquid tags that lychee mis-parses
+        run: |
+          docker run --rm -v "${{ github.workspace }}:/input" -w /input lycheeverse/lychee:0.24.2 \
+            --user-agent 'curl/7.54' \
+            --base-url https://elinorp-d.github.io \
+            --accept-timeouts \
+            --max-concurrency 8 --timeout 20 --max-retries 2 --retry-wait-time 1 \
+            --exclude 'linkedin\.com|vermonthoyas\.com' \
+            --exclude-path README.md --exclude-path _pages/404.md --exclude-path _pages/blog.md \
+            --no-progress './**/*.md' './**/*.html'
