@@ -13,7 +13,7 @@ toc:
     subsections:
       - name: Let's normalize dead plants
       - name: Krimson Princess
-  - name: 2022
+  - name: "2022"
     subsections:
       - name: Spotlights
         subsections:
