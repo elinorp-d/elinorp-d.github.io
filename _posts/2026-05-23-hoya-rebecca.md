@@ -5,7 +5,7 @@ date: 2026-06-13
 description: The first hoya I bought when I moved to Cambridge to begin grad school at MIT
 tags: plants hoya
 categories: plants
-thumbnail: assets/img/plants/hoyarebecca/may23_2026_bloom.png
+thumbnail: assets/img/plants/hoyarebecca/may23_2026_bloom.jpg
 featured: false
 
 toc:
@@ -28,7 +28,7 @@ Beyond flowers, hoyas are relatively easy to care for, which is a big bonus. The
 
 <div class="row justify-content-center">
     <div class="col-8 col-sm-6 col-lg-5">
-        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/may23_2026_bloom.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/may23_2026_bloom.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">Hoya rebecca bloom on May 23, 2026. So pink and delicately fuzzy! Smells amazing, sort of like a gardenia.</div>
     </div>
 </div>
@@ -39,15 +39,15 @@ I first moved to Cambridge in late August, 2023, to begin my Master's degree at 
 
 <div class="row justify-content-center">
     <div class="col-5 col-sm-4">
-        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/sept25_2023.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/sept25_2023.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">Hoya rebecca on the day I bought her, September 2023.</div>
     </div>
     <div class="col-5 col-sm-4">
-        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/jan8_2024.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/jan8_2024.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">January 2024.</div>
     </div>
     <div class="col-5 col-sm-4">
-        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/mar15_2024.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/mar15_2024.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">March 2024.</div>
     </div>
 </div>
@@ -56,19 +56,19 @@ She grew relatively quickly in the next months, and just about 8 months later, I
 
 <div class="row justify-content-center">
     <div class="col-6 col-lg-3">
-        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/may3_2024_trellis.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/may3_2024_trellis.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">May 2024 with new trellis!</div>
     </div>
     <div class="col-6 col-lg-3">
-        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/june21_2024.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/june21_2024.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">June 2024.</div>
     </div>
     <div class="col-6 col-lg-3">
-        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/dec7_2024.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/dec7_2024.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">December 2024.</div>
     </div>
     <div class="col-6 col-lg-3">
-        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/feb9_2025.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/feb9_2025.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">February 2025.</div>
     </div>
 </div>
@@ -79,19 +79,19 @@ In May 2025, right as I was finishing my Master's degree, I noticed a very tiny 
 
 <div class="row justify-content-center">
     <div class="col-6 col-lg-3">
-        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/may12_2025.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/may12_2025.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">May 2025.</div>
     </div>
     <div class="col-6 col-lg-3">
-        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/may18_2025_peduncle.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/may18_2025_peduncle.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">Tiny peduncle spotted, May 2025.</div>
     </div>
     <div class="col-6 col-lg-3">
-        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/june8_2025_peduncle.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/june8_2025_peduncle.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">Buds forming, June 2025.</div>
     </div>
     <div class="col-6 col-lg-3">
-        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/july16_2025.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/july16_2025.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">Last photo before I went on vacation, July 2025.</div>
     </div>
 </div>
@@ -103,11 +103,11 @@ Despite the peduncle (probably) not having produced any flowers that summer, hoy
 
 <div class="row justify-content-center">
     <div class="col-10 col-sm-6">
-        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/aug29_2025_fridge.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/aug29_2025_fridge.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">August 2025, fridge for scale.</div>
     </div>
     <div class="col-10 col-sm-6">
-        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/aug29_2025_retrellis.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/aug29_2025_retrellis.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">New trellis, August 2025.</div>
     </div>
 </div>
@@ -117,15 +117,15 @@ After the move, there were new buds forming on the peduncle, and I was so excite
 
 <div class="row justify-content-center">
     <div class="col-5 col-sm-4">
-        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/sept26_2025_peduncle.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/sept26_2025_peduncle.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">Sept 2025, new buds.</div>
     </div>
     <div class="col-5 col-sm-4">
-        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/oct14_2025_peduncle.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/oct14_2025_peduncle.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">October 2025, getting closer to flowering.</div>
     </div>
     <div class="col-5 col-sm-4">
-        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/oct20_2025.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/oct20_2025.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">October 2025, whole plant lookin cute!</div>
     </div>
 </div>
@@ -138,17 +138,17 @@ The next photo I have of this plant is when it randomly got knocked onto the gro
 
 <div class="row justify-content-center">
     <div class="col-10 col-sm-6">
-        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/jan13_2026_fall.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/jan13_2026_fall.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">The fall in January 2026.</div>
     </div>
     <div class="col-10 col-sm-6">
-        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/jan16_2026.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/jan16_2026.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">She survived!</div>
     </div>
 </div>
 <div class="row justify-content-center">
     <div class="col-10 col-sm-8 col-lg-6">
-        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/jan16_2026_peduncle.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/jan16_2026_peduncle.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">Closeup of the buds that never opened.</div>
     </div>
 </div>
@@ -158,11 +158,11 @@ Over the rest of the winter and spring, hoya rebecca kept making buds and blasti
 
 <div class="row justify-content-center">
     <div class="col-10 col-sm-6">
-        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/feb20_2026.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/feb20_2026.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">February 2026 buds that never opened.</div>
     </div>
     <div class="col-10 col-sm-6">
-        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/mar20_2026_both.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/mar20_2026_both.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">March 2026, two peduncles had buds at the same time! Neither opened.</div>
     </div>
 </div>
@@ -172,15 +172,15 @@ In April 2026, we finally got a first successful bloom! It wasn't the prettiest/
 
 <div class="row justify-content-center">
     <div class="col-5 col-sm-4">
-        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/apr12_2026_closeup.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/apr12_2026_closeup.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">First flower in April 2026! Also see if you can spot the 4 other buds visible in this photo (out of around 10 total on the entire plant at this time).</div>
     </div>
     <div class="col-5 col-sm-4">
-        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/apr17_2026_bloom.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/apr17_2026_bloom.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">About a week later, another bloom, this time more pink!</div>
     </div>
     <div class="col-5 col-sm-4">
-        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/apr17_2026.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/apr17_2026.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">The whole plant is covered in buds!</div>
     </div>
 </div>
@@ -189,7 +189,7 @@ Since April, my hoya rebecca hasn't really stopped flowering! The blooms only la
 
 <div class="row justify-content-center">
     <div class="col-8 col-sm-6 col-lg-5">
-        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/may23_2026_bloom.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/may23_2026_bloom.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">Probably the best photo I've taken, from May 2026. It's honestly what inspired me to write this blog post.</div>
     </div>
 </div>
@@ -201,11 +201,11 @@ A cool observation is that the flowers are often light or deep pink in color, bu
 
 <div class="row justify-content-center">
     <div class="col-10 col-sm-6">
-        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/may24_2026.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/may24_2026.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">Two flowers at the same time in May 2026.</div>
     </div>
     <div class="col-10 col-sm-6">
-        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/may24_2026_bloom.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/may24_2026_bloom.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">Close-up, where you can also see the sun-stressing on the leaves on the right side.</div>
     </div>
 </div>
@@ -214,11 +214,11 @@ Since it's summer in Cambridge, it's gotten very hot, and I installed a window A
 
 <div class="row justify-content-center">
     <div class="col-10 col-sm-6">
-        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/june2_2026.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/june2_2026.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">Two flowers at the same time in June 2026, this time white.</div>
     </div>
     <div class="col-10 col-sm-6">
-        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/june2_2026_blooms.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/june2_2026_blooms.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">Close-up.</div>
     </div>
 </div>
@@ -232,11 +232,11 @@ In an attempt to try and prevent the spider mites from spreading futher, I gave 
 
 <div class="row justify-content-center">
     <div class="col-10 col-sm-6">
-        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/june6_2026_shower.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/june6_2026_shower.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">Shower time (pls ignore the dirty dishes)!</div>
     </div>
     <div class="col-10 col-sm-6">
-        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/june6_2026_blooms.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/hoyarebecca/june6_2026_blooms.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">Blooms survived the shower, June 2026.</div>
     </div>
 </div>

@@ -5,7 +5,7 @@ date: 2026-06-14
 description: A brief history of Elinor and her plants
 tags: plants history
 categories: plants
-thumbnail: assets/img/plants/part5/livingroom_jan2022.png
+thumbnail: assets/img/plants/part5/livingroom_jan2022.jpg
 featured: true
 
 toc:
@@ -35,45 +35,45 @@ Let's pause for a second and commemorate some plants that I could not save in th
 
 <div class="row justify-content-center">
     <div class="col-5 col-sm-4">
-        {% include figure.liquid loading="eager" path="assets/img/plants/part5/brazil_alive_mar2021.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/part5/brazil_alive_mar2021.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">Philodendron Brazil that was alive and well in March 2021.</div>
     </div>
     <div class="col-5 col-sm-4">
-        {% include figure.liquid loading="eager" path="assets/img/plants/part5/brazil_dying_oct2021.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/part5/brazil_dying_oct2021.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">By October, all the vines died and I cut it back to basically nothing in an attempt to save it.</div>
     </div>
     <div class="col-5 col-sm-4">
-        {% include figure.liquid loading="eager" path="assets/img/plants/part5/brazil_dead_jan2022.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/part5/brazil_dead_jan2022.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">January 2022, I had to accept its death.</div>
     </div>
 </div>
 
 <div class="row justify-content-center">
     <div class="col-5 col-sm-4">
-        {% include figure.liquid loading="eager" path="assets/img/plants/part5/spider_alive_apr2021.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/part5/spider_alive_apr2021.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">My curly spider plants were...</div>
     </div>
     <div class="col-5 col-sm-4">
-        {% include figure.liquid loading="eager" path="assets/img/plants/part5/spider2_alive_apr2021.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/part5/spider2_alive_apr2021.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">...alive and well in April 2021.</div>
     </div>
     <div class="col-5 col-sm-4">
-        {% include figure.liquid loading="eager" path="assets/img/plants/part5/spiderplants_dead.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/part5/spiderplants_dead.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">September 2021, this was all that's left, and they both died.</div>
     </div>
 </div>
 
 <div class="row justify-content-center">
     <div class="col-5 col-sm-4">
-        {% include figure.liquid loading="eager" path="assets/img/plants/part5/melange_apr2021.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/part5/melange_apr2021.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">April 2021, my "melange" of philodendrons I'd propagated during the pandemic.</div>
     </div>
     <div class="col-5 col-sm-4">
-        {% include figure.liquid loading="eager" path="assets/img/plants/part5/melange_jan2022.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/part5/melange_jan2022.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">By January, it was very sickly and full of thrips.</div>
     </div>
     <div class="col-5 col-sm-4">
-        {% include figure.liquid loading="eager" path="assets/img/plants/part5/melange_death_jan2022.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/part5/melange_death_jan2022.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">About a week later, I chucked it*.</div>
     </div>
 </div>
@@ -86,24 +86,24 @@ Not all was negative in this time period. I want to highlight a plant I got in S
 
 <div class="row justify-content-center align-items-center">
     <div class="col-4">
-        {% include figure.liquid loading="eager" path="assets/img/plants/part5/tricolor/pickup_sept2021.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/part5/tricolor/pickup_sept2021.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">In the plant store, September 2021.</div>
     </div>
     <div class="col-4">
-        {% include figure.liquid loading="eager" path="assets/img/plants/part5/tricolor/wholeplant.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/part5/tricolor/wholeplant.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-4">
-        {% include figure.liquid loading="eager" path="assets/img/plants/part5/marchemiltonparc.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/part5/marchemiltonparc.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">Marché Milton Parc store.</div>
     </div>
 </div>
 
 <div class="row justify-content-center">
     <div class="col-8 col-sm-4">
-        {% include figure.liquid loading="eager" path="assets/img/plants/part5/tricolor/closeup.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/part5/tricolor/closeup.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-10 col-sm-6">
-        {% include figure.liquid loading="eager" path="assets/img/plants/part5/tricolor/horizontal.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/part5/tricolor/horizontal.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">You'd probably believe me when I say there's a bajillion more photos like this, and I had a lot of trouble picking just four to show here lol.</div>
@@ -114,41 +114,41 @@ The plant collection was bouncing back by winter. Here are some photos from Janu
 
 <div class="row justify-content-center">
     <div class="col-10 col-sm-6">
-        {% include figure.liquid loading="eager" path="assets/img/plants/part5/livingroom_sept2021.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/part5/livingroom_sept2021.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">Living room in Sept 2021.</div>
     </div>
     <div class="col-10 col-sm-6">
-        {% include figure.liquid loading="eager" path="assets/img/plants/part5/livingroom_jan2022.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/part5/livingroom_jan2022.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">And in January 2022.</div>
     </div>
 </div>
 
 <div class="row justify-content-center align-items-center">
     <div class="col-4">
-        {% include figure.liquid loading="eager" path="assets/img/plants/part5/growlights_jan2022.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/part5/growlights_jan2022.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">Living room plants by the grow light.</div>
     </div>
     <div class="col-4">
-        {% include figure.liquid loading="eager" path="assets/img/plants/part5/windowsill_jan2022.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/part5/windowsill_jan2022.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">Living room window plants.</div>
     </div>
     <div class="col-4">
-        {% include figure.liquid loading="eager" path="assets/img/plants/part5/kitchen_jan2022.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/part5/kitchen_jan2022.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">Kitchen window plants.</div>
     </div>
 </div>
 
 <div class="row justify-content-center">
     <div class="col-5 col-sm-4">
-        {% include figure.liquid loading="eager" path="assets/img/plants/part5/roomshelf_dec2021.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/part5/roomshelf_dec2021.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">Shelf in my room Dec 2021.</div>
     </div>
     <div class="col-5 col-sm-4">
-        {% include figure.liquid loading="eager" path="assets/img/plants/part5/roomshelf_mar2022.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/part5/roomshelf_mar2022.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">March 2022.</div>
     </div>
     <div class="col-5 col-sm-4">
-        {% include figure.liquid loading="eager" path="assets/img/plants/part5/roomshelf_apr2022.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/part5/roomshelf_apr2022.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">April 2022.</div>
     </div>
 </div>
@@ -159,15 +159,15 @@ I bought a second type of scindapsus (see the whole post dedicated to my [first 
 
 <div class="row justify-content-center">
     <div class="col-5 col-sm-4">
-        {% include figure.liquid loading="eager" path="assets/img/plants/part5/scindapsusexotica_jan2022.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/part5/scindapsusexotica_jan2022.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">Bought her in Jan 2022.</div>
     </div>
     <div class="col-5 col-sm-4">
-        {% include figure.liquid loading="eager" path="assets/img/plants/part5/scindapsusexotica_mar2022.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/part5/scindapsusexotica_mar2022.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">Growth by March!</div>
     </div>
     <div class="col-5 col-sm-4">
-        {% include figure.liquid loading="eager" path="assets/img/plants/part5/scindapsusexotica_may2022.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/part5/scindapsusexotica_may2022.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">May 2022.</div>
     </div>
 </div>
@@ -175,11 +175,11 @@ I bought a second type of scindapsus (see the whole post dedicated to my [first 
 #### ZZ plant
 <div class="row justify-content-center">
     <div class="col-10 col-sm-6">
-        {% include figure.liquid loading="eager" path="assets/img/plants/part5/zz_jan2022.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/part5/zz_jan2022.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">ZZ plant in Jan 2022.</div>
     </div>
     <div class="col-10 col-sm-6">
-        {% include figure.liquid loading="eager" path="assets/img/plants/part5/zz_apr2022.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/part5/zz_apr2022.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">April 2022, really the first new growth since I got him in Feb 2021.</div>
     </div>
 </div>
@@ -189,11 +189,11 @@ In summer 2022, I bought a new type of pothos called "cebu blue" from someone on
 
 <div class="row justify-content-center">
     <div class="col-10 col-sm-6">
-        {% include figure.liquid loading="eager" path="assets/img/plants/part5/cebu_pot_jul2022.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/part5/cebu_pot_jul2022.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">Little pot on the day I got him, July 2022.</div>
     </div>
     <div class="col-10 col-sm-6">
-        {% include figure.liquid loading="eager" path="assets/img/plants/part5/cebu_vine_jul2022.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/part5/cebu_vine_jul2022.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">The vine on the same day.</div>
     </div>
 </div>
@@ -203,26 +203,26 @@ Sneak peek, this plant is alive and well today! Here are some highlight photos o
 
 <div class="row justify-content-center">
     <div class="col-5 col-sm-4">
-        {% include figure.liquid loading="eager" path="assets/img/plants/part5/cebu_jun2023.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/part5/cebu_jun2023.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">June 2023.</div>
     </div>
     <div class="col-5 col-sm-4">
-        {% include figure.liquid loading="eager" path="assets/img/plants/part5/cebu_nov2023.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/part5/cebu_nov2023.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">November 2023.</div>
     </div>
     <div class="col-5 col-sm-4">
-        {% include figure.liquid loading="eager" path="assets/img/plants/part5/cebu_apr2024.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/part5/cebu_apr2024.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">April 2024.</div>
     </div>
 </div>
 
 <div class="row justify-content-center">
     <div class="col-10 col-sm-6">
-        {% include figure.liquid loading="eager" path="assets/img/plants/part5/cebu_july2024.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/part5/cebu_july2024.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">July 2024, lookin bushy after some propagation.</div>
     </div>
     <div class="col-10 col-sm-6">
-        {% include figure.liquid loading="eager" path="assets/img/plants/part5/cebu_feb2025.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/part5/cebu_feb2025.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">February 2025, now climbing a moss pole.</div>
     </div>
 </div>
@@ -233,11 +233,11 @@ At the same time as cebu blue, I got my hoya bella---one little pot and one cutt
 
 <div class="row justify-content-center">
     <div class="col-10 col-sm-6">
-        {% include figure.liquid loading="eager" path="assets/img/plants/part5/bella_pot_jul2022.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/part5/bella_pot_jul2022.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">Pot the day I got her, July 2022.</div>
     </div>
     <div class="col-10 col-sm-6">
-        {% include figure.liquid loading="eager" path="assets/img/plants/part5/bella_vine_jul2022.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/part5/bella_vine_jul2022.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">Little cutting on the same day.</div>
     </div>
 </div>
@@ -246,19 +246,19 @@ This plant will likely get its own dedicated post one day, so here are just a fe
 
 <div class="row justify-content-center">
     <div class="col-6 col-lg-3">
-        {% include figure.liquid loading="eager" path="assets/img/plants/part5/bella_aug2023.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/part5/bella_aug2023.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">August 2023.</div>
     </div>
     <div class="col-6 col-lg-3">
-        {% include figure.liquid loading="eager" path="assets/img/plants/part5/bella_dec2023.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/part5/bella_dec2023.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">December 2023.</div>
     </div>
     <div class="col-6 col-lg-3">
-        {% include figure.liquid loading="eager" path="assets/img/plants/part5/bella_sept2024.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/part5/bella_sept2024.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">September 2024.</div>
     </div>
     <div class="col-6 col-lg-3">
-        {% include figure.liquid loading="eager" path="assets/img/plants/part5/bella_aug2025.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/plants/part5/bella_aug2025.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">August 2025.</div>
     </div>
 </div>
