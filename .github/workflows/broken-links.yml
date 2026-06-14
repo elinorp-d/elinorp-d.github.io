@@ -48,5 +48,9 @@ jobs:
         uses: lycheeverse/lychee-action@v1.9.0
         with:
           fail: true
-          # removed md files that include liquid tags
-          args: --user-agent 'curl/7.54' --exclude-path README.md --exclude-path _pages/404.md --exclude-path _pages/blog.md --exclude-path _posts/2018-12-22-distill.md --exclude-path _posts/2023-04-24-videos.md --verbose --no-progress './**/*.md' './**/*.html'
+          # --base-url resolves root-relative links (/blog/..., /cv/, /assets/...)
+          #   against the live site, since they're Jekyll permalinks not source files.
+          # --exclude linkedin.com: LinkedIn returns 999 to all automated clients
+          #   (bot wall), so it can't be verified and is a guaranteed false positive.
+          # --exclude-path: md files with liquid tags that lychee mis-parses.
+          args: --user-agent 'curl/7.54' --base-url https://elinorp-d.github.io --exclude 'linkedin\.com' --exclude-path README.md --exclude-path _pages/404.md --exclude-path _pages/blog.md --verbose --no-progress './**/*.md' './**/*.html'
