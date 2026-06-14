@@ -7,6 +7,18 @@ tags: plants hoya
 categories: plants
 thumbnail: assets/img/plants/hoyarebecca/may23_2026_bloom.png
 featured: false
+
+toc:
+  - name: The beginning
+  - name: First hint of flowers
+  - name: Makeover + Moving
+  - name: Buds, again, heartbreak, again
+  - name: Finally, flowers!
+    # if a section has subsections, you can add them as follows:
+    subsections:
+      - name: Colors
+    #   - name: Example Child Subsection 2
+  - name: Plant maintenance
 ---
 
 
