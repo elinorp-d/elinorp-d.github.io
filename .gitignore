@@ -14,3 +14,7 @@ vendor
 _posts/example_posts/*
 _posts/drafts*
 _projects/templates/*
+
+# Claude Code
+CLAUDE.md
+.claude/
