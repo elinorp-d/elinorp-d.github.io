@@ -65,3 +65,19 @@
 "wu":
   - firstname: ["Jiayi", "Jiayi Wu", "J Wu"]
     url: https://jiayiw005.github.io/
+
+"fisher":
+  - firstname: ["Jillian", "Jillian Fisher", "J Fisher"]
+    url: https://jfisher52.github.io/
+
+"kasirzadeh":
+  - firstname: ["Atoosa", "Atoosa Kasirzadeh", "A Kasirzadeh"]
+    url: https://kasirzadeh.org/
+
+"andreas":
+  - firstname: ["Jacob", "Jacob Andreas", "J Andreas"]
+    url: https://www.mit.edu/~jda/
+
+"gordon":
+  - firstname: ["Mitchell", "Mitchell Gordon", "M Gordon", "Mitchell L.", "Mitchell L. Gordon"]
+    url: https://mitchellg.github.io/
