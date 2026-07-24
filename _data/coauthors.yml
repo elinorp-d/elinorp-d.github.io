@@ -49,6 +49,10 @@
   - firstname: ["Daniel T", "Daniel", "Daniel T Kessler", "D Kessler"]
     url: https://www.linkedin.com/in/daniel-kessler-33100a49/
 
+"lin":
+  - firstname: ["Emily S.", "Emily", "Emily S. Lin", "Emily Lin", "E Lin"]
+    url: https://scholar.google.com/citations?user=Gq_M0EIAAAAJ&hl=en
+
 "ganz":
   - firstname: ["Marshall", "Marshall Ganz", "M Ganz"]
     url: https://www.hks.harvard.edu/faculty/marshall-ganz

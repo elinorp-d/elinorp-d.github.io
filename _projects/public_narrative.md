@@ -12,7 +12,7 @@ related_publications: true
     </div>
 </div>
 
-This project has been a collaboration with [Hannah Chiou](https://www.linkedin.com/in/hannah-chiou/), [Danny Kessler](https://www.ccc.mit.edu/person/daniel-kessler/), [Maggie Hughes](https://m-a-hues.me/), [Emily S. Lin](https://www.hks.harvard.edu/about/emily-lin-0), and [Marshall Ganz](https://www.hks.harvard.edu/faculty/marshall-ganz). It was accepted to the [7th Workshop on Narrative Understanding](https://sites.google.com/cs.stonybrook.edu/wnu2025/accepted-papers?authuser=0) at NAACL 2025 {% cite publicnarrative_NAACL2025 %}.
+This project has been a collaboration with [Hannah Chiou](https://www.linkedin.com/in/hannah-chiou/), [Danny Kessler](https://www.ccc.mit.edu/person/daniel-kessler/), [Maggie Hughes](https://m-a-hues.me/), [Emily S. Lin](https://scholar.google.com/citations?user=Gq_M0EIAAAAJ&hl=en), and [Marshall Ganz](https://www.hks.harvard.edu/faculty/marshall-ganz). It was accepted to the [7th Workshop on Narrative Understanding](https://sites.google.com/cs.stonybrook.edu/wnu2025/accepted-papers?authuser=0) at NAACL 2025 {% cite publicnarrative_NAACL2025 %}.
 
 
 <div class="row justify-content-center">
