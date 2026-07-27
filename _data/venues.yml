@@ -30,6 +30,10 @@
   color: "#b31b1b"
   url: https://arxiv.org/
 
+"ArXiv 2026":
+  color: "#b31b1b"
+  url: https://arxiv.org/
+
 "AAAI 2026":
   color: "#013973"
   url: https://aaai.org/conference/aaai/aaai-26/
@@ -41,7 +45,3 @@
 "ICLR 2026":
   color: "#65c431"
   url: https://iclr.cc/Conferences/2026
-
-"Preprint 2026":
-  color: "#6c757d"
-  url: https://impactful-pluralistic-alignment.github.io/
