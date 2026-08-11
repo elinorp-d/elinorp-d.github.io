@@ -4,7 +4,7 @@ title: From Dialogue to Decision
 subtitle: An LLM-Powered Framework for Analyzing Collective Idea Evolution and Voting Dynamics in Deliberative Assemblies
 description: Master's thesis supervised by Deb Roy, MIT
 img: assets/img/thesis_img.png
-importance: 2
+importance: 3
 related_publications: true
 ---
 

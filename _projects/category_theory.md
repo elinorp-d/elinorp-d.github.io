@@ -2,7 +2,7 @@
 layout: page
 title: Interpretablity of Language Models Using Category Theory
 img: assets/img/cat_theory.png
-importance: 5
+importance: 6
 ---
 
 ## Context
